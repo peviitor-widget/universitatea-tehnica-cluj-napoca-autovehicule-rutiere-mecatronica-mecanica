@@ -1,0 +1,510 @@
+[
+  {
+    "url": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Iasi-RO/Software-Developer---Student_R00259065",
+    "title": "Software Developer - Student",
+    "company": "MAGNA ELECTRONICS ROMANIA S.R.L.",
+    "location": [
+      "Iași, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-17T13:10:39.253Z",
+    "status": "scraped",
+    "tags": [
+      "Programare calculatoare",
+      "Mecatronica auto"
+    ],
+    "matchPercentage": 50,
+    "reason": "Domeniu conectat la sisteme electronice auto, dar focalizat pe software development"
+  },
+  {
+    "url": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Timisoara-RO/Algorithm-Developer---Student_R00259064",
+    "title": "Algorithm Developer - Student",
+    "company": "MAGNA ELECTRONICS ROMANIA S.R.L.",
+    "location": [
+      "Timișoara, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-17T13:10:39.253Z",
+    "status": "scraped",
+    "tags": [
+      "Metode numerice",
+      "Sisteme cu microprocesoare"
+    ],
+    "matchPercentage": 45,
+    "reason": "Dezvoltare de algoritmi pe partea software-electronica auto, relevanta partiala"
+  },
+  {
+    "url": "https://jobs.bosch.com/en/job/REF289126L-working-student-manufacturing-engineering-support",
+    "title": "Working Student – Manufacturing Engineering Support",
+    "company": "BOSCH REXROTH S.R.L.",
+    "location": [
+      "Jucu, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-17T13:10:39.253Z",
+    "status": "scraped",
+    "tags": [
+      "Productie mecanica",
+      "Sisteme pneumatice"
+    ],
+    "matchPercentage": 90,
+    "reason": "Sustinere productie mecanica si pneumatica pe linia de fabricatie, direct relevant"
+  },
+  {
+    "url": "https://jobs.bosch.com/en/job/REF296110N-working-student-in-software-testing",
+    "title": "Working Student in Software Testing",
+    "company": "BOSCH REXROTH S.R.L.",
+    "location": [
+      "Cluj-Napoca, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-17T13:09:29.278Z",
+    "status": "scraped",
+    "tags": [
+      "Programare calculatoare",
+      "Controlul proceselor"
+    ],
+    "matchPercentage": 45,
+    "reason": "Testare software in context tehnic, competenta de programare relevanta partial"
+  },
+  {
+    "url": "https://jobs.bosch.com/en/job/REF296085R-working-student-production-digitalization",
+    "title": "Working Student - Production Digitalization",
+    "company": "BOSCH REXROTH S.R.L.",
+    "location": [
+      "Blaj, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-17T13:09:29.278Z",
+    "status": "scraped",
+    "tags": [
+      "Productie mecanica",
+      "Programare calculatoare"
+    ],
+    "matchPercentage": 60,
+    "reason": "Digitalizarea productiei combina metodologia tehnica cu programarea"
+  },
+  {
+    "url": "https://jobs.bosch.com/en/job/REF293127C-working-student-quality-management-purchasing",
+    "title": "Working Student - Quality Management Purchasing",
+    "company": "BOSCH REXROTH S.R.L.",
+    "location": [
+      "Blaj, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-17T13:09:22.383Z",
+    "status": "scraped",
+    "tags": [
+      "Management auto",
+      "Controlul calitatii"
+    ],
+    "matchPercentage": 40,
+    "reason": "Managementul calitatii in achizitii, relevanta medie"
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000132632779",
+    "title": "Working Student – Manufacturing Engineering Support",
+    "company": "DEN BOSCH GROUP SRL",
+    "location": [
+      "Jucu, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-17T13:09:22.383Z",
+    "status": "scraped",
+    "tags": [
+      "Productie mecanica",
+      "Sisteme pneumatice"
+    ],
+    "matchPercentage": 90,
+    "reason": "Asistenta pe linia de productie cu sisteme mecanice si pneumatice, potrivire excelenta"
+  },
+  {
+    "url": "https://jobs.bosch.com/en/job/REF294205K-working-student-mechanical-field",
+    "title": "Working Student Mechanical Field",
+    "company": "BOSCH REXROTH S.R.L.",
+    "location": [
+      "Blaj, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-17T13:09:21.210Z",
+    "status": "scraped",
+    "tags": [
+      "Calcul de rezistenta",
+      "CAD"
+    ],
+    "matchPercentage": 80,
+    "reason": "Domeniu mecanica ingineresca, competente de calcul si CAD aplicabile"
+  },
+  {
+    "url": "https://jobs.bosch.com/en/job/REF294763X-working-student-for-transport-cleaning",
+    "title": "Working Student for Transport &amp; Cleaning",
+    "company": "BOSCH REXROTH S.R.L.",
+    "location": [
+      "Jucu, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-17T13:08:55.479Z",
+    "status": "scraped",
+    "tags": [
+      "Logistica transporturi",
+      "Organizare autoservice"
+    ],
+    "matchPercentage": 50,
+    "reason": "Activitate pe zona de transport si logistica, relevanta medie"
+  },
+  {
+    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Bucharest/Junior-SW-Safety-Engineer---Student_R-10064549",
+    "title": "Junior SW Safety Engineer - Student",
+    "company": "NXP BIROTICA SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-17T13:08:52.422Z",
+    "status": "scraped",
+    "tags": [
+      "Programare calculatoare",
+      "Sisteme electronice auto"
+    ],
+    "matchPercentage": 45,
+    "reason": "Software auto cu standarde de siguranta (ISO 26262), relevanta partiala"
+  },
+  {
+    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Bucharest/Junior-SW-Safety-Engineer---Student_R-10064550",
+    "title": "Junior SW Safety Engineer - Student",
+    "company": "NXP BIROTICA SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-17T13:08:52.422Z",
+    "status": "scraped",
+    "tags": [
+      "Programare calculatoare",
+      "Sisteme electronice auto"
+    ],
+    "matchPercentage": 45,
+    "reason": "Software auto cu standarde de siguranta (ISO 26262), relevanta partiala"
+  },
+  {
+    "url": "https://www.teamland.ro/apply.php?id=761#content",
+    "title": "Internship Inginer Calitate",
+    "company": "TEAMLAND SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-17T13:11:55.820Z",
+    "status": "scraped",
+    "tags": [
+      "Controlul calitatii",
+      "Testarea autovehiculelor"
+    ],
+    "matchPercentage": 70,
+    "reason": "Controlul calitatii si testare, competente direct aplicabile"
+  },
+  {
+    "url": "https://gmv.csod.com/ux/ats/careersite/4/home/requisition/3307?c=gmv&amp;lang=en-US",
+    "title": "Are you looking for an internship? Send us your Cv!",
+    "company": "GMV GRUP S.R.L.",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-17T13:11:20.839Z",
+    "status": "scraped",
+    "tags": [
+      "Management auto"
+    ],
+    "matchPercentage": 20,
+    "reason": "Anunt generic de internship, potrivire neclara"
+  },
+  {
+    "url": "https://www.teamland.ro/apply.php?id=1073#content",
+    "title": "Internship - Inginer electric",
+    "company": "TEAMLAND SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-17T13:10:58.035Z",
+    "status": "scraped",
+    "tags": [
+      "Echipamente electrice",
+      "Masini electrice"
+    ],
+    "matchPercentage": 55,
+    "reason": "Compente electrica si de masini electrice aplicabile"
+  },
+  {
+    "url": "https://alliancewd.wd3.myworkdayjobs.com/ro-RO/renault-group-careers/job/Bucuresti/XMLNAME--Internship--Procesarea--i-analiza-scanrilor-3D-utiliznd-FARO-SCENE--F-M-_JOBREQ_50274409",
+    "title": "(Internship) Procesarea și analiza scanărilor 3D utilizând FARO SCENE (F/M)",
+    "company": "RENAULT SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-17T13:10:56.844Z",
+    "status": "scraped",
+    "tags": [
+      "CAD",
+      "Controlul calitatii"
+    ],
+    "matchPercentage": 85,
+    "reason": "Scanare 3D, CAD si validare geometrie in industria auto, potrivire foarte buna"
+  },
+  {
+    "url": "https://www.teamland.ro/apply.php?id=1240#content",
+    "title": "Internship inginer electric",
+    "company": "TEAMLAND SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-17T13:10:37.212Z",
+    "status": "scraped",
+    "tags": [
+      "Echipamente electrice",
+      "Masini electrice"
+    ],
+    "matchPercentage": 55,
+    "reason": "Compente electrica si de masini electrice aplicabile"
+  },
+  {
+    "url": "https://jobs.continental.com/en/detail-page/job-detail/REF96780V-p-4c58e857334dde0d15a6d84978a08998/internship---infrastructure-application-management-ctbc",
+    "title": "Internship – Infrastructure Application Management - CTBC",
+    "company": "CONTINENTAL SRL",
+    "location": [
+      "Timișoara, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-17T13:10:36.293Z",
+    "status": "scraped",
+    "tags": [
+      "Programare calculatoare"
+    ],
+    "matchPercentage": 15,
+    "reason": "Management de aplicatii IT, legatura slaba cu profilul mecatronic"
+  },
+  {
+    "url": "https://career.preh.com/en/job-openings/current-job-offers.html?yid=3907",
+    "title": "Internship QMS",
+    "company": "PREH ROMANIA SRL",
+    "location": [
+      "Ghimbav, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-17T13:09:50.780Z",
+    "status": "scraped",
+    "tags": [
+      "Controlul calitatii",
+      "Management auto"
+    ],
+    "matchPercentage": 65,
+    "reason": "Sistem de management al calitatii in productie auto, relevant"
+  },
+  {
+    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Sibiu/Crypto-Quality-SW-Process-Internship_R-10066282",
+    "title": "Crypto Quality SW Process Internship",
+    "company": "NXP BIROTICA SRL",
+    "location": [
+      "Sibiu, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-17T13:08:58.968Z",
+    "status": "scraped",
+    "tags": [
+      "Controlul calitatii",
+      "Programare calculatoare"
+    ],
+    "matchPercentage": 40,
+    "reason": "Procese de calitate software, standarde auto, dar orientat software"
+  },
+  {
+    "url": "https://www.teamland.ro/apply.php?id=686#content",
+    "title": "Internship Inginer Mentenanta",
+    "company": "TEAMLAND SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-17T13:08:46.864Z",
+    "status": "scraped",
+    "tags": [
+      "Mentenanta autovehicule",
+      "Diagnosticare defectiuni"
+    ],
+    "matchPercentage": 90,
+    "reason": "Mentenanta si intretinere, competente esentiale ale profilului"
+  },
+  {
+    "url": "https://www.teamland.ro/apply.php?id=685#content",
+    "title": "Internship Inginer Electric",
+    "company": "TEAMLAND SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-17T13:08:46.864Z",
+    "status": "scraped",
+    "tags": [
+      "Echipamente electrice",
+      "Masini electrice"
+    ],
+    "matchPercentage": 55,
+    "reason": "Compente electrica si de masini electrice aplicabile"
+  },
+  {
+    "url": "https://www.teamland.ro/apply.php?id=680#content",
+    "title": "Internship Inginer Productie",
+    "company": "TEAMLAND SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-17T13:08:46.864Z",
+    "status": "scraped",
+    "tags": [
+      "Productie mecanica",
+      "CAM"
+    ],
+    "matchPercentage": 80,
+    "reason": "Productie si fabricatie mecanica, competente direct aplicabile"
+  },
+  {
+    "url": "https://jobs.continental.com/en/detail-page/job-detail/REF98915W-p-b2676d2a46c230dbb1f2cdf117a51f14/junior-german-speaking-customs-technician",
+    "title": "Junior German-Speaking Customs Technician",
+    "company": "CONTINENTAL SRL",
+    "location": [
+      "Timișoara, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-17T13:11:55.820Z",
+    "status": "scraped",
+    "tags": [
+      "Logistica Auto",
+      "Limbi Straine"
+    ],
+    "matchPercentage": 55,
+    "reason": "Continental este producator major auto. Rolul de customs technician in industria auto implica cunostinte de logistica, limba straina si intelegerea componentelor auto. Competentele de logistica/transporturi si comunicare in limbi straine sunt relevante"
+  },
+  {
+    "url": "https://crosswork.sincron.biz/jobs/details/723/mid-level-customer-service-representative-supply-chain-with-slovenian",
+    "title": "Mid Level Customer Service Representative (Supply Chain) with Slovenian",
+    "company": "CROSS WORK S.R.L.",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-17T13:11:58.344Z",
+    "status": "scraped",
+    "tags": [
+      "Logistica",
+      "Limbi Straine"
+    ],
+    "matchPercentage": 30,
+    "reason": "Supply chain/logistica are legatura cu competentele de optimizare logistica si transporturi rutiere, dar nivelul mid si limba slovena sunt provocari"
+  },
+  {
+    "url": "https://crosswork.sincron.biz/jobs/details/721/mid-level-customer-service-representative-supply-chain-with-czech",
+    "title": "Mid Level Customer Service Representative (Supply Chain) with Czech",
+    "company": "CROSS WORK S.R.L.",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-17T13:11:58.344Z",
+    "status": "scraped",
+    "tags": [
+      "Logistica",
+      "Limbi Straine"
+    ],
+    "matchPercentage": 30,
+    "reason": "La fel ca mai sus - supply chain aliniat cu competentele de logistica, dar nivelul mid si limba ceha necesita experienta suplimentara"
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/267731/Systematic/Mid-Level-Software-Developer---Grow-Your-Skills-With-Us",
+    "title": "Mid-Level Software Developer - Grow Your Skills With Us",
+    "company": "SYSTEMATIC SRL",
+    "location": [
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-17T13:09:22.383Z",
+    "status": "scraped",
+    "tags": [
+      "Programare",
+      "Software"
+    ],
+    "matchPercentage": 25,
+    "reason": "Programare calculatoare este in planul de invatamant, dar rolul mid-level necesita experienta practica de dezvoltare software mai substantiala"
+  },
+  {
+    "url": "https://jobs.systematic.com/job/Bucharest-Mid-Level-Software-Developer-Grow-Your-Skills-With-Us-010631/1390461233/",
+    "title": "Mid-Level Software Developer - Grow Your Skills With Us",
+    "company": "SYSTEMATIC SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-17T13:08:49.314Z",
+    "status": "scraped",
+    "tags": [
+      "Programare",
+      "Software"
+    ],
+    "matchPercentage": 25,
+    "reason": "Programare calculatoare este in planul de invatamant, dar rolul mid-level necesita experienta practica de dezvoltare software mai substantiala"
+  },
+  {
+    "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Bucharest/Dev-Ops-Engineer--middle-level-_JR10429307",
+    "title": "Dev Ops Engineer( middle level)",
+    "company": "AIRBUS HAN SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-17T13:05:46.649Z",
+    "status": "scraped",
+    "tags": [
+      "Automatizare",
+      "Programare"
+    ],
+    "matchPercentage": 35,
+    "reason": "Airbus are legatura cu industria aerospatiala/auto. Competentele de programare, controlul si automatizarea sistemelor sunt relevante, dar rolul DevOps necesita cunostinte avansate de cloud/infrastructura"
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/270701/Working4U/Inginer-Retele-Electrice-(Suport-in-Proiectare)",
+    "title": "Inginer Retele Electrice (Suport in Proiectare)",
+    "company": "WORKING UP LC SOLUTIONS SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-17T13:12:21.317Z",
+    "status": "scraped",
+    "tags": [
+      "Electronica Aplicata",
+      "CAD"
+    ],
+    "matchPercentage": 45,
+    "reason": "Proiectare retele electrice implica utilizarea echipamentelor electrice, electronicii aplicate si proiectarii asistate de calculator - competente din planul de invatamant"
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/270700/Working4U/Inginer-Proiectare-Retele-Electrice",
+    "title": "Inginer Proiectare Retele Electrice",
+    "company": "WORKING UP LC SOLUTIONS SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-17T13:12:21.317Z",
+    "status": "scraped",
+    "tags": [
+      "Electronica Aplicata",
+      "Proiectare CAD"
+    ],
+    "matchPercentage": 50,
+    "reason": "Proiectare retele electrice aliniata cu competentele de echipamente electrice, masini electrice, electronica aplicata si CAD. Nivelul de proiectare este potrivit pentru un absolvent"
+  }
+]
