@@ -1,510 +1,512 @@
 [
   {
-    "url": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Iasi-RO/Software-Developer---Student_R00259065",
-    "title": "Software Developer - Student",
-    "company": "MAGNA ELECTRONICS ROMANIA S.R.L.",
-    "location": [
-      "Iași, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-17T13:10:39.253Z",
-    "status": "scraped",
-    "tags": [
-      "Programare calculatoare",
-      "Mecatronica auto"
-    ],
-    "matchPercentage": 50,
-    "reason": "Domeniu conectat la sisteme electronice auto, dar focalizat pe software development"
-  },
-  {
-    "url": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Timisoara-RO/Algorithm-Developer---Student_R00259064",
-    "title": "Algorithm Developer - Student",
-    "company": "MAGNA ELECTRONICS ROMANIA S.R.L.",
-    "location": [
-      "Timișoara, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-17T13:10:39.253Z",
-    "status": "scraped",
-    "tags": [
-      "Metode numerice",
-      "Sisteme cu microprocesoare"
-    ],
-    "matchPercentage": 45,
-    "reason": "Dezvoltare de algoritmi pe partea software-electronica auto, relevanta partiala"
-  },
-  {
-    "url": "https://jobs.bosch.com/en/job/REF289126L-working-student-manufacturing-engineering-support",
-    "title": "Working Student – Manufacturing Engineering Support",
+    "url": "https://jobs.bosch.com/en/job/REF296286O-working-student-in-manufacturing-engineering-support",
+    "title": "Working Student in Manufacturing Engineering Support",
     "company": "BOSCH REXROTH S.R.L.",
     "location": [
       "Jucu, Romania"
     ],
     "salary": null,
-    "date": "2026-09-17T13:10:39.253Z",
+    "date": "2026-09-20T13:01:07.253Z",
     "status": "scraped",
     "tags": [
-      "Productie mecanica",
-      "Sisteme pneumatice"
+      "Desene tehnice",
+      "Fabricare mecanica"
     ],
     "matchPercentage": 90,
-    "reason": "Sustinere productie mecanica si pneumatica pe linia de fabricatie, direct relevant"
+    "reason": "Sprijin direct in procesele de fabricatie mecanica, aplicand desene tehnice si cunostinte de productie; mi se potriveste foarte bine."
   },
   {
-    "url": "https://jobs.bosch.com/en/job/REF296110N-working-student-in-software-testing",
-    "title": "Working Student in Software Testing",
+    "url": "https://jobs.bosch.com/en/job/REF296283L-working-student-in-product-planning-team",
+    "title": "Working Student in Product Planning Team",
     "company": "BOSCH REXROTH S.R.L.",
     "location": [
-      "Cluj-Napoca, Romania"
+      "Jucu, Romania"
     ],
     "salary": null,
-    "date": "2026-09-17T13:09:29.278Z",
+    "date": "2026-09-20T13:01:07.253Z",
     "status": "scraped",
     "tags": [
-      "Programare calculatoare",
-      "Controlul proceselor"
+      "Sisteme hidraulice",
+      "Management auto"
     ],
-    "matchPercentage": 45,
-    "reason": "Testare software in context tehnic, competenta de programare relevanta partial"
+    "matchPercentage": 55,
+    "reason": "Planificarea de produs intr-un mediu tehnic (hidraulica) combina competente tehnice cu organizatorice; potrivit partial."
   },
   {
-    "url": "https://jobs.bosch.com/en/job/REF296085R-working-student-production-digitalization",
-    "title": "Working Student - Production Digitalization",
-    "company": "BOSCH REXROTH S.R.L.",
-    "location": [
-      "Blaj, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-17T13:09:29.278Z",
-    "status": "scraped",
-    "tags": [
-      "Productie mecanica",
-      "Programare calculatoare"
-    ],
-    "matchPercentage": 60,
-    "reason": "Digitalizarea productiei combina metodologia tehnica cu programarea"
-  },
-  {
-    "url": "https://jobs.bosch.com/en/job/REF293127C-working-student-quality-management-purchasing",
-    "title": "Working Student - Quality Management Purchasing",
-    "company": "BOSCH REXROTH S.R.L.",
-    "location": [
-      "Blaj, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-17T13:09:22.383Z",
-    "status": "scraped",
-    "tags": [
-      "Management auto",
-      "Controlul calitatii"
-    ],
-    "matchPercentage": 40,
-    "reason": "Managementul calitatii in achizitii, relevanta medie"
-  },
-  {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000132632779",
-    "title": "Working Student – Manufacturing Engineering Support",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000149577419",
+    "title": "Working Student in Manufacturing Engineering Support",
     "company": "DEN BOSCH GROUP SRL",
     "location": [
       "Jucu, Romania"
     ],
     "salary": null,
-    "date": "2026-09-17T13:09:22.383Z",
+    "date": "2026-09-20T12:59:13.739Z",
     "status": "scraped",
     "tags": [
-      "Productie mecanica",
-      "Sisteme pneumatice"
+      "Desene tehnice",
+      "Fabricare mecanica"
     ],
     "matchPercentage": 90,
-    "reason": "Asistenta pe linia de productie cu sisteme mecanice si pneumatice, potrivire excelenta"
+    "reason": "Familiarizare cu echipamente si procese industriale si aplicarea teoriei in productie; se potriveste excelent cu profilul meu."
   },
   {
-    "url": "https://jobs.bosch.com/en/job/REF294205K-working-student-mechanical-field",
-    "title": "Working Student Mechanical Field",
-    "company": "BOSCH REXROTH S.R.L.",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000149573455",
+    "title": "Working Student in Product Planning Team",
+    "company": "DEN BOSCH GROUP SRL",
     "location": [
-      "Blaj, Romania"
+      "Jucu, Romania"
     ],
     "salary": null,
-    "date": "2026-09-17T13:09:21.210Z",
+    "date": "2026-09-20T12:59:13.739Z",
     "status": "scraped",
     "tags": [
-      "Calcul de rezistenta",
-      "CAD"
+      "Sisteme hidraulice",
+      "Management auto"
     ],
-    "matchPercentage": 80,
-    "reason": "Domeniu mecanica ingineresca, competente de calcul si CAD aplicabile"
+    "matchPercentage": 55,
+    "reason": "Planificarea de produs tehnic, aplicate cunostinte de hidraulica si organizare; potrivire buna, dar partiala."
   },
   {
-    "url": "https://jobs.bosch.com/en/job/REF294763X-working-student-for-transport-cleaning",
-    "title": "Working Student for Transport &amp; Cleaning",
+    "url": "https://jobs.continental.com/en/detail-page/job-detail/REF39805I-p-b2ed6067500789f6a582b07be865c421/engineering-internship-8h-tires",
+    "title": "Engineering Internship (8h) - Tires",
+    "company": "CONTINENTAL SRL",
+    "location": [
+      "Timișoara, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-20T12:57:26.156Z",
+    "status": "scraped",
+    "tags": [
+      "Testare si omologare",
+      "Controlul calitatii"
+    ],
+    "matchPercentage": 80,
+    "reason": "Inginerie in productia si testarea anvelopelor, incluzand controlul calitatii; se aliniaza cu competentele mele de testare si omologare."
+  },
+  {
+    "url": "https://jobs.bosch.com/en/job/REF289650F-embedded-ai-software-engineer-mid-level",
+    "title": "Embedded AI Software Engineer Mid-Level",
+    "company": "BOSCH REXROTH S.R.L.",
+    "location": [
+      "Cluj-Napoca, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-20T12:59:16.516Z",
+    "status": "scraped",
+    "tags": [
+      "mecatronica",
+      "microprocesoare"
+    ],
+    "matchPercentage": 65,
+    "reason": "Integrare de sisteme embedded și microprocesoare, exact domeniul mecatronicii studiate; bună potrivire cu competențele de control și electronică aplicată."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000144767549",
+    "title": "Embedded AI Software Engineer Mid-Level",
+    "company": "DEN BOSCH GROUP SRL",
+    "location": [
+      "Cluj-Napoca, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-20T12:58:55.632Z",
+    "status": "scraped",
+    "tags": [
+      "sisteme electronice",
+      "mecatronica"
+    ],
+    "matchPercentage": 60,
+    "reason": "Lucrează la interfața hardware–acceleratoare AI–software embedded, apropiat de sistemele mecatronice și electronice auto studiate."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000144766999",
+    "title": "Working Student in Embedded Software Development - High Level",
+    "company": "DEN BOSCH GROUP SRL",
+    "location": [
+      "Cluj-Napoca, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-20T12:58:55.632Z",
+    "status": "scraped",
+    "tags": [
+      "programare",
+      "microprocesoare"
+    ],
+    "matchPercentage": 65,
+    "reason": "Poziție de student în dezvoltare software embedded, potrivită nivelului meu și competențelor de programare și microprocesoare."
+  },
+  {
+    "url": "https://www.atlascopco.com/ro-ro/jobs/service-technician",
+    "title": "Inginer de service",
+    "company": "ATLAS COPCO ROMANIA SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-20T13:01:36.847Z",
+    "status": "scraped",
+    "tags": [
+      "mentenanta",
+      "diagnosticare"
+    ],
+    "matchPercentage": 65,
+    "reason": "Service, mentenanță și diagnosticare echipamente, direct aplicabil competențelor mele de mentenanță și depanare tehnică."
+  },
+  {
+    "url": "https://www.teamland.ro/apply.php?id=512#content",
+    "title": "Inginer Proces",
+    "company": "TEAMLAND SRL",
+    "location": [
+      "Pitești, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-20T13:01:10.368Z",
+    "status": "scraped",
+    "tags": [
+      "Controlul proceselor",
+      "Productie"
+    ],
+    "matchPercentage": 70,
+    "reason": "Rol de inginer de proces in productie, potrivit profilului de inginer mecanic cu focus pe procese tehnice."
+  },
+  {
+    "url": "https://d-career.org/Draexlmaier/job/Hunedoara-Inginer-Specialist-%C3%AEn-robotic%C4%83-331110/1400327833/",
+    "title": "Inginer Specialist în robotică",
+    "company": "DAR DRAXLMAIER AUTOMOTIVE SRL",
+    "location": [
+      "Hunedoara, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-20T13:00:45.126Z",
+    "status": "scraped",
+    "tags": [
+      "Mecatronica",
+      "Controlul sistemelor"
+    ],
+    "matchPercentage": 90,
+    "reason": "Robotica in industria auto este centrul profilului de mecatronica."
+  },
+  {
+    "url": "https://erpahr.ro/jobs?ref=489&amp;title=inginer-proiectant-mobilier",
+    "title": "Inginer Proiectant Mobilier",
+    "company": "ERPA HR SERVICES S.R.L.",
+    "location": [
+      "Ploiești, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-20T12:58:34.053Z",
+    "status": "scraped",
+    "tags": [
+      "CAD",
+      "CAM"
+    ],
+    "matchPercentage": 55,
+    "reason": "Se folosesc competentele de proiectare CAD/CAM si programe CNC, chiar daca domeniul e mobilier."
+  },
+  {
+    "url": "https://jobs.bosch.com/en/job/REF292336Y-cad-engineer",
+    "title": "CAD Engineer",
     "company": "BOSCH REXROTH S.R.L.",
     "location": [
       "Jucu, Romania"
     ],
     "salary": null,
-    "date": "2026-09-17T13:08:55.479Z",
-    "status": "scraped",
-    "tags": [
-      "Logistica transporturi",
-      "Organizare autoservice"
-    ],
-    "matchPercentage": 50,
-    "reason": "Activitate pe zona de transport si logistica, relevanta medie"
-  },
-  {
-    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Bucharest/Junior-SW-Safety-Engineer---Student_R-10064549",
-    "title": "Junior SW Safety Engineer - Student",
-    "company": "NXP BIROTICA SRL",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-17T13:08:52.422Z",
-    "status": "scraped",
-    "tags": [
-      "Programare calculatoare",
-      "Sisteme electronice auto"
-    ],
-    "matchPercentage": 45,
-    "reason": "Software auto cu standarde de siguranta (ISO 26262), relevanta partiala"
-  },
-  {
-    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Bucharest/Junior-SW-Safety-Engineer---Student_R-10064550",
-    "title": "Junior SW Safety Engineer - Student",
-    "company": "NXP BIROTICA SRL",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-17T13:08:52.422Z",
-    "status": "scraped",
-    "tags": [
-      "Programare calculatoare",
-      "Sisteme electronice auto"
-    ],
-    "matchPercentage": 45,
-    "reason": "Software auto cu standarde de siguranta (ISO 26262), relevanta partiala"
-  },
-  {
-    "url": "https://www.teamland.ro/apply.php?id=761#content",
-    "title": "Internship Inginer Calitate",
-    "company": "TEAMLAND SRL",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-17T13:11:55.820Z",
-    "status": "scraped",
-    "tags": [
-      "Controlul calitatii",
-      "Testarea autovehiculelor"
-    ],
-    "matchPercentage": 70,
-    "reason": "Controlul calitatii si testare, competente direct aplicabile"
-  },
-  {
-    "url": "https://gmv.csod.com/ux/ats/careersite/4/home/requisition/3307?c=gmv&amp;lang=en-US",
-    "title": "Are you looking for an internship? Send us your Cv!",
-    "company": "GMV GRUP S.R.L.",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-17T13:11:20.839Z",
-    "status": "scraped",
-    "tags": [
-      "Management auto"
-    ],
-    "matchPercentage": 20,
-    "reason": "Anunt generic de internship, potrivire neclara"
-  },
-  {
-    "url": "https://www.teamland.ro/apply.php?id=1073#content",
-    "title": "Internship - Inginer electric",
-    "company": "TEAMLAND SRL",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-17T13:10:58.035Z",
-    "status": "scraped",
-    "tags": [
-      "Echipamente electrice",
-      "Masini electrice"
-    ],
-    "matchPercentage": 55,
-    "reason": "Compente electrica si de masini electrice aplicabile"
-  },
-  {
-    "url": "https://alliancewd.wd3.myworkdayjobs.com/ro-RO/renault-group-careers/job/Bucuresti/XMLNAME--Internship--Procesarea--i-analiza-scanrilor-3D-utiliznd-FARO-SCENE--F-M-_JOBREQ_50274409",
-    "title": "(Internship) Procesarea și analiza scanărilor 3D utilizând FARO SCENE (F/M)",
-    "company": "RENAULT SRL",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-17T13:10:56.844Z",
+    "date": "2026-09-20T12:58:17.192Z",
     "status": "scraped",
     "tags": [
       "CAD",
-      "Controlul calitatii"
+      "Sisteme hidraulice si pneumatice"
     ],
     "matchPercentage": 85,
-    "reason": "Scanare 3D, CAD si validare geometrie in industria auto, potrivire foarte buna"
+    "reason": "Companie de hidraulica/automatizare industriala, post CAD potrivit pentru inginer mecatronica."
   },
   {
-    "url": "https://www.teamland.ro/apply.php?id=1240#content",
-    "title": "Internship inginer electric",
-    "company": "TEAMLAND SRL",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000139009890",
+    "title": "CAD Engineer",
+    "company": "DEN BOSCH GROUP SRL",
+    "location": [
+      "Jucu, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-20T12:58:17.192Z",
+    "status": "scraped",
+    "tags": [
+      "CAD",
+      "Citirea desenelor tehnice"
+    ],
+    "matchPercentage": 65,
+    "reason": "Post CAD in cadrul Bosch, desen tehnic si planificare spatiala, in industrie tehnica."
+  },
+  {
+    "url": "https://www.prohuman.ro/candidati/jobs/Proiectantsistem",
+    "title": "Proiectant sistem calitate și organizare",
+    "company": "PROHUMAN APT S.R.L.",
     "location": [
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-09-17T13:10:37.212Z",
+    "date": "2026-09-20T12:57:24.384Z",
     "status": "scraped",
     "tags": [
-      "Echipamente electrice",
-      "Masini electrice"
+      "Controlul calitatii",
+      "Fiabilitate"
     ],
-    "matchPercentage": 55,
-    "reason": "Compente electrica si de masini electrice aplicabile"
+    "matchPercentage": 50,
+    "reason": "Controlul calitatii este un domeniu relevant pentru profilul de inginer, chiar daca domeniul e general."
   },
   {
-    "url": "https://jobs.continental.com/en/detail-page/job-detail/REF96780V-p-4c58e857334dde0d15a6d84978a08998/internship---infrastructure-application-management-ctbc",
-    "title": "Internship – Infrastructure Application Management - CTBC",
-    "company": "CONTINENTAL SRL",
+    "url": "https://www.prohuman.ro/candidati/jobs/Proiectantstructuriderezistenta",
+    "title": "Proiectant structuri de rezistență",
+    "company": "PROHUMAN APT S.R.L.",
     "location": [
-      "Timișoara, Romania"
+      "Iași, Romania"
     ],
     "salary": null,
-    "date": "2026-09-17T13:10:36.293Z",
+    "date": "2026-09-20T12:57:22.512Z",
     "status": "scraped",
     "tags": [
-      "Programare calculatoare"
+      "Calculul de rezistenta",
+      "CAD"
     ],
-    "matchPercentage": 15,
-    "reason": "Management de aplicatii IT, legatura slaba cu profilul mecatronic"
+    "matchPercentage": 70,
+    "reason": "Post de proiectare structuri, direct corelat cu competenta de calcul al rezistentei si CAD."
   },
   {
-    "url": "https://career.preh.com/en/job-openings/current-job-offers.html?yid=3907",
-    "title": "Internship QMS",
-    "company": "PREH ROMANIA SRL",
+    "url": "https://colorcontrol.ro/vacancies#mechanical",
+    "title": "Inginer Mecanic Proiectant",
+    "company": "COLOR CONTROL SERVICES SRL",
+    "location": [
+      "Apahida, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-20T12:57:16.970Z",
+    "status": "scraped",
+    "tags": [
+      "CAD",
+      "CAM"
+    ],
+    "matchPercentage": 85,
+    "reason": "Proiectare mecanica in firma de prelucrari CNC (frecare, strunjire, taiere laser) - potrivire excelenta."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/271121/SCHAEFFLER/Inginer-proiectant",
+    "title": "Inginer proiectant",
+    "company": "SCHAEFFLER ROMANIA SRL",
+    "location": [
+      "Brașov, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-20T12:56:37.264Z",
+    "status": "scraped",
+    "tags": [
+      "Calculul si constructia autovehiculelor",
+      "CAD"
+    ],
+    "matchPercentage": 85,
+    "reason": "Gigant auto (mobilitate, Vitesco), post de proiectant ideal pentru inginer mecanic/auto."
+  },
+  {
+    "url": "https://www.leohr.ro/jobs/inginer-echipamente-testare/53/",
+    "title": "Inginer Echipamente Testare",
+    "company": "LEOHR S.R.L.",
+    "location": [
+      "Pitești, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-20T12:57:20.503Z",
+    "status": "scraped",
+    "tags": [
+      "testarea si omologarea auto",
+      "mecatronica"
+    ],
+    "matchPercentage": 78,
+    "reason": "Inginerie de echipamente de testare, se aliniază direct cu testarea și omologarea autovehiculelor și mecatronica."
+  },
+  {
+    "url": "https://www.targuldecariere.ro/companii/schaeffler/18146/tehnician-testare-electrica",
+    "title": "Tehnician - Testare Electrica",
+    "company": "SCHAEFFLER ROMANIA SRL",
     "location": [
       "Ghimbav, Romania"
     ],
     "salary": null,
-    "date": "2026-09-17T13:09:50.780Z",
+    "date": "2026-09-20T12:56:57.832Z",
     "status": "scraped",
     "tags": [
-      "Controlul calitatii",
-      "Management auto"
+      "testare si controlul calitatii",
+      "echipamente electrice"
     ],
-    "matchPercentage": 65,
-    "reason": "Sistem de management al calitatii in productie auto, relevant"
+    "matchPercentage": 75,
+    "reason": "Testare electrică în industria auto, potrivit pentru competențele de testare, calitate și electronică."
   },
   {
-    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Sibiu/Crypto-Quality-SW-Process-Internship_R-10066282",
-    "title": "Crypto Quality SW Process Internship",
-    "company": "NXP BIROTICA SRL",
+    "url": "https://www.autocobalcescu.ro/consilier-service-mecanica-dacia-renault",
+    "title": "Consilier Service Mecanică Dacia/Renault",
+    "company": "AUTO COBALCESCU SRL",
     "location": [
-      "Sibiu, Romania"
+      "București, Romania"
     ],
     "salary": null,
-    "date": "2026-09-17T13:08:58.968Z",
+    "date": "2026-09-20T12:56:10.324Z",
     "status": "scraped",
     "tags": [
-      "Controlul calitatii",
-      "Programare calculatoare"
+      "Studii ingineresti auto",
+      "Comunicare relatii clienti"
     ],
-    "matchPercentage": 40,
-    "reason": "Procese de calitate software, standarde auto, dar orientat software"
+    "matchPercentage": 45,
+    "reason": "Cere studii superioare tehnice (AR) si abilitati de comunicare cu clientii; potrivit ca studii, dar solicita min. 2 ani experienta in service auto."
   },
   {
-    "url": "https://www.teamland.ro/apply.php?id=686#content",
-    "title": "Internship Inginer Mentenanta",
-    "company": "TEAMLAND SRL",
+    "url": "https://www.atlascopco.com/ro-ro/jobs/tehnician-service-compresoare-de-aer",
+    "title": "Tehnician Service",
+    "company": "ATLAS COPCO ROMANIA SRL",
     "location": [
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-09-17T13:08:46.864Z",
+    "date": "2026-09-20T13:01:36.847Z",
     "status": "scraped",
     "tags": [
-      "Mentenanta autovehicule",
+      "Mentenanta tehnica",
       "Diagnosticare defectiuni"
     ],
-    "matchPercentage": 90,
-    "reason": "Mentenanta si intretinere, competente esentiale ale profilului"
+    "matchPercentage": 65,
+    "reason": "Tehnician/inginer de service compresoare in teren; valorifica competentele de mentenanta, diagnosticare si suport tehnic clienti."
   },
   {
-    "url": "https://www.teamland.ro/apply.php?id=685#content",
-    "title": "Internship Inginer Electric",
+    "url": "https://careers.conduent.com/us/en/job/24466",
+    "title": "Customer Service Agent with German &amp; English",
+    "company": "CONDUENT BUSINESS SERVICES ROMANIA SRL",
+    "location": [
+      "Iași, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-20T13:01:09.108Z",
+    "status": "scraped",
+    "tags": [
+      "Comunicare limbi straine",
+      "Comunicare tehnica"
+    ],
+    "matchPercentage": 35,
+    "reason": "Se bazeaza pe comunicare in germana si engleza (competenta dobandita), dar rol este de agent turism/call center, fara componenta tehnica."
+  },
+  {
+    "url": "https://www.prohuman.ro/candidati/jobs/FrenchServiceDeskanalyst",
+    "title": "Service-Desk Analyst with French",
+    "company": "PROHUMAN APT S.R.L.",
+    "location": [
+      "Iași, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-20T12:59:17.416Z",
+    "status": "scraped",
+    "tags": [
+      "Comunicare limbi straine",
+      "Suport tehnica clienti"
+    ],
+    "matchPercentage": 30,
+    "reason": "Cere franceza (competenta dobandita) si suport IT; rol call center/desk, departe de domeniul auto."
+  },
+  {
+    "url": "https://www.prohuman.ro/candidati/jobs/deskserviceanalyst",
+    "title": "Service Desk Analyst with French",
+    "company": "PROHUMAN APT S.R.L.",
+    "location": [
+      "Iași, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-20T12:58:56.676Z",
+    "status": "scraped",
+    "tags": [
+      "Comunicare limbi straine",
+      "Suport tehnica clienti"
+    ],
+    "matchPercentage": 30,
+    "reason": "Cere franceza si engleza cu suport tehnic IT de baza; valorifica limbile straine, dar domeniul nu este cel auto."
+  },
+  {
+    "url": "https://www.teamland.ro/apply.php?id=1304#content",
+    "title": "Inginer instalatii intretinere",
     "company": "TEAMLAND SRL",
     "location": [
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-09-17T13:08:46.864Z",
+    "date": "2026-09-20T12:57:49.098Z",
+    "status": "scraped",
+    "tags": [
+      "Mentenanta tehnica",
+      "Sisteme tehnice"
+    ],
+    "matchPercentage": 60,
+    "reason": "Post de inginer in domeniul intretinerii instalatiilor; se potriveste nivelului de studii si competentelor de mentenanta si sisteme tehnice."
+  },
+  {
+    "url": "https://www.chorus.ro/Careers/JobApplication/42?job=Mecanic%20productie%20tablouri%20electrice",
+    "title": "Mecanic productie tablouri electrice",
+    "company": "CHORUS SRL",
+    "location": [
+      "Mogosoaia, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-20T12:59:56.152Z",
+    "status": "scraped",
+    "tags": [
+      "Productie mecania",
+      "Echipamente electrice"
+    ],
+    "matchPercentage": 55,
+    "reason": "Fabricare și producție mecanică de tablouri electrice, se potrivește cu abilitățile de producție/fabricație și echipamente electrice."
+  },
+  {
+    "url": "https://www.chorus.ro/Careers/JobApplication/15?job=Electrician%20uzinare%20tablouri%20electrice",
+    "title": "Electrician uzinare tablouri electrice",
+    "company": "CHORUS SRL",
+    "location": [
+      "Mogosoaia, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-20T12:58:34.053Z",
     "status": "scraped",
     "tags": [
       "Echipamente electrice",
-      "Masini electrice"
+      "Componente mecatronice"
     ],
-    "matchPercentage": 55,
-    "reason": "Compente electrica si de masini electrice aplicabile"
+    "matchPercentage": 50,
+    "reason": "Lucrări electrice pe tablouri (uzinare), relevant ca punct de intrare având cunoștințe de echipamente electrice și electronică aplicată."
   },
   {
-    "url": "https://www.teamland.ro/apply.php?id=680#content",
-    "title": "Internship Inginer Productie",
+    "url": "https://www.teamland.ro/apply.php?id=1081#content",
+    "title": "Electrician automatizari",
     "company": "TEAMLAND SRL",
     "location": [
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-09-17T13:08:46.864Z",
+    "date": "2026-09-20T13:00:22.224Z",
     "status": "scraped",
     "tags": [
-      "Productie mecanica",
-      "CAM"
-    ],
-    "matchPercentage": 80,
-    "reason": "Productie si fabricatie mecanica, competente direct aplicabile"
-  },
-  {
-    "url": "https://jobs.continental.com/en/detail-page/job-detail/REF98915W-p-b2676d2a46c230dbb1f2cdf117a51f14/junior-german-speaking-customs-technician",
-    "title": "Junior German-Speaking Customs Technician",
-    "company": "CONTINENTAL SRL",
-    "location": [
-      "Timișoara, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-17T13:11:55.820Z",
-    "status": "scraped",
-    "tags": [
-      "Logistica Auto",
-      "Limbi Straine"
+      "Control si automatizare",
+      "Echipamente electrice"
     ],
     "matchPercentage": 55,
-    "reason": "Continental este producator major auto. Rolul de customs technician in industria auto implica cunostinte de logistica, limba straina si intelegerea componentelor auto. Competentele de logistica/transporturi si comunicare in limbi straine sunt relevante"
+    "reason": "Automatizări electrice, se potrivește cu competențele de control și automatizare a sistemelor și echipamente electrice."
   },
   {
-    "url": "https://crosswork.sincron.biz/jobs/details/723/mid-level-customer-service-representative-supply-chain-with-slovenian",
-    "title": "Mid Level Customer Service Representative (Supply Chain) with Slovenian",
-    "company": "CROSS WORK S.R.L.",
+    "url": "https://www.prohuman.ro/candidati/jobs/Automatist-Tehnician-automatizari1",
+    "title": "Automatist (Tehnician automatizări)",
+    "company": "PROHUMAN APT S.R.L.",
     "location": [
-      "Bucuresti, Romania"
+      "Craiova, Romania"
     ],
     "salary": null,
-    "date": "2026-09-17T13:11:58.344Z",
+    "date": "2026-09-20T12:57:18.774Z",
     "status": "scraped",
     "tags": [
-      "Logistica",
-      "Limbi Straine"
+      "Control si automatizare",
+      "Componente mecatronice"
     ],
-    "matchPercentage": 30,
-    "reason": "Supply chain/logistica are legatura cu competentele de optimizare logistica si transporturi rutiere, dar nivelul mid si limba slovena sunt provocari"
-  },
-  {
-    "url": "https://crosswork.sincron.biz/jobs/details/721/mid-level-customer-service-representative-supply-chain-with-czech",
-    "title": "Mid Level Customer Service Representative (Supply Chain) with Czech",
-    "company": "CROSS WORK S.R.L.",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-17T13:11:58.344Z",
-    "status": "scraped",
-    "tags": [
-      "Logistica",
-      "Limbi Straine"
-    ],
-    "matchPercentage": 30,
-    "reason": "La fel ca mai sus - supply chain aliniat cu competentele de logistica, dar nivelul mid si limba ceha necesita experienta suplimentara"
-  },
-  {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/267731/Systematic/Mid-Level-Software-Developer---Grow-Your-Skills-With-Us",
-    "title": "Mid-Level Software Developer - Grow Your Skills With Us",
-    "company": "SYSTEMATIC SRL",
-    "location": [
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-17T13:09:22.383Z",
-    "status": "scraped",
-    "tags": [
-      "Programare",
-      "Software"
-    ],
-    "matchPercentage": 25,
-    "reason": "Programare calculatoare este in planul de invatamant, dar rolul mid-level necesita experienta practica de dezvoltare software mai substantiala"
-  },
-  {
-    "url": "https://jobs.systematic.com/job/Bucharest-Mid-Level-Software-Developer-Grow-Your-Skills-With-Us-010631/1390461233/",
-    "title": "Mid-Level Software Developer - Grow Your Skills With Us",
-    "company": "SYSTEMATIC SRL",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-17T13:08:49.314Z",
-    "status": "scraped",
-    "tags": [
-      "Programare",
-      "Software"
-    ],
-    "matchPercentage": 25,
-    "reason": "Programare calculatoare este in planul de invatamant, dar rolul mid-level necesita experienta practica de dezvoltare software mai substantiala"
-  },
-  {
-    "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Bucharest/Dev-Ops-Engineer--middle-level-_JR10429307",
-    "title": "Dev Ops Engineer( middle level)",
-    "company": "AIRBUS HAN SRL",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-17T13:05:46.649Z",
-    "status": "scraped",
-    "tags": [
-      "Automatizare",
-      "Programare"
-    ],
-    "matchPercentage": 35,
-    "reason": "Airbus are legatura cu industria aerospatiala/auto. Competentele de programare, controlul si automatizarea sistemelor sunt relevante, dar rolul DevOps necesita cunostinte avansate de cloud/infrastructura"
-  },
-  {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/270701/Working4U/Inginer-Retele-Electrice-(Suport-in-Proiectare)",
-    "title": "Inginer Retele Electrice (Suport in Proiectare)",
-    "company": "WORKING UP LC SOLUTIONS SRL",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-17T13:12:21.317Z",
-    "status": "scraped",
-    "tags": [
-      "Electronica Aplicata",
-      "CAD"
-    ],
-    "matchPercentage": 45,
-    "reason": "Proiectare retele electrice implica utilizarea echipamentelor electrice, electronicii aplicate si proiectarii asistate de calculator - competente din planul de invatamant"
-  },
-  {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/270700/Working4U/Inginer-Proiectare-Retele-Electrice",
-    "title": "Inginer Proiectare Retele Electrice",
-    "company": "WORKING UP LC SOLUTIONS SRL",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-17T13:12:21.317Z",
-    "status": "scraped",
-    "tags": [
-      "Electronica Aplicata",
-      "Proiectare CAD"
-    ],
-    "matchPercentage": 50,
-    "reason": "Proiectare retele electrice aliniata cu competentele de echipamente electrice, masini electrice, electronica aplicata si CAD. Nivelul de proiectare este potrivit pentru un absolvent"
+    "matchPercentage": 65,
+    "reason": "Tehnician automatizări, aliniat cu controlul și automatizarea sistemelor și integrarea componentelor mecatronice."
   }
 ]
