@@ -1,207 +1,20 @@
 [
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3235057",
-    "title": "INGINER AUTOVEHICULE RUTIERE",
-    "company": "INFOPRO DIGITAL AUTOMOTIVE SOCIETATE CU RASPUNDERE LIMITATĂ",
+    "url": "https://www.bestjobs.eu/loc-de-munca/cad-cam-engineer-11",
+    "title": "CAD/CAM ENGINEER",
+    "company": "AGE COMFORTABLY G&amp;G S.R.L.",
     "location": [
-      "Bucuresti sectorul 5, Romania"
+      "Strada Dozsa Gyorgy, 455100 Cehu Silvaniei, Romania"
     ],
     "salary": null,
-    "date": "2026-10-10T14:30:25.855Z",
-    "status": "scraped",
-    "tags": [
-      "Autovehicule rutiere",
-      "Proiectare auto"
-    ],
-    "matchPercentage": 92,
-    "reason": "Inginer autovehicule rutiere cu experiență sub 3 ani, potrivire directă pe domeniu și nivel."
-  },
-  {
-    "url": "https://8ore.ro/locuri-de-munca/tehnician-programare-cad-cam-cnc-belciugatele",
-    "title": "TEHNICIAN PROGRAMARE (CAD/CAM/CNC) - Belciugatele",
-    "company": "RECRUITMENT MARATHON S.R.L.",
-    "location": [
-      "Belciugatele, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-10T14:35:17.599Z",
-    "status": "scraped",
-    "tags": [
-      "CAD/CAM",
-      "Prelucrare mecanica"
-    ],
-    "matchPercentage": 85,
-    "reason": "Tehnician programare CAD/CAM/CNC junior, folosește direct competențele de fabricație asistată și desen tehnic."
-  },
-  {
-    "url": "https://oferimdemunca.ro/job/inginer-designer-3d-junior-senior-proiectare-mecanica-cad-autocad-solidworks-rhino/",
-    "title": "INGINER / DESIGNER 3D (Junior–Senior) – Proiectare mecanică | CAD | Autocad / SolidWorks / Rhino",
-    "company": "NUINTEK EUROPE  SRL",
-    "location": [
-      "Apahida, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-10T14:28:14.396Z",
-    "status": "scraped",
-    "tags": [
-      "Proiectare mecanica",
-      "SolidWorks"
-    ],
-    "matchPercentage": 85,
-    "reason": "Inginer/designer 3D proiectare mecanică CAD/SolidWorks, nivel junior până la mediu, potrivire clară."
-  },
-  {
-    "url": "https://8ore.ro/locuri-de-munca/programator-cad-cam",
-    "title": "Programator CAD/CAM",
-    "company": "DYNAMIC DESIGN EUROPE RO S.R.L.",
-    "location": [
-      "Belciugatele, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-10T14:26:13.400Z",
-    "status": "scraped",
-    "tags": [
-      "CAD/CAM",
-      "Prelucrare mecanica"
-    ],
-    "matchPercentage": 85,
-    "reason": "Programator CAD/CAM pentru centre de prelucrare, aliniat direct competențelor de fabricație asistată."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/inginer-proiectant-mecanic-solidworks",
-    "title": "Inginer Proiectant Mecanic",
-    "company": "COLOR CONTROL SUPPORT S.R.L.",
-    "location": [
-      "Apahida,Cluj-Napoca, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-10T14:42:41.556Z",
-    "status": "scraped",
-    "tags": [
-      "proiectare mecanica",
-      "CAD/CAE"
-    ],
-    "matchPercentage": 82,
-    "reason": "Inginer proiectant mecanic foloseste direct proiectarea mecanica si CAD."
-  },
-  {
-    "url": "https://dreamjobs.ro/ro/job/prest-comet-srl/inginer-auto-service-auto-itp",
-    "title": "Inginer Auto – Service Auto / ITP",
-    "company": "RAVY PREST SRL",
-    "location": [
-      "Focsani, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-10T14:42:39.572Z",
-    "status": "scraped",
-    "tags": [
-      "diagnosticare auto",
-      "service auto"
-    ],
-    "matchPercentage": 80,
-    "reason": "Inginer auto in service/ITP aplica diagnosticarea auto si cunostintele de autovehicule."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/inginer-mecanic-proiectare-6",
-    "title": "Inginer Mecanic / Proiectant",
-    "company": "EURO GAS SYSTEMS SRL",
-    "location": [
-      "Chirileu, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-10T14:42:32.940Z",
-    "status": "scraped",
-    "tags": [
-      "proiectare mecanica",
-      "CAD/CAE"
-    ],
-    "matchPercentage": 80,
-    "reason": "Inginer mecanic/proiectant, proiectare mecanica direct relevanta."
-  },
-  {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/270114/Bosch-Romania/CAD-Engineer",
-    "title": "CAD Engineer",
-    "company": "BOSCH REXROTH S.R.L.",
-    "location": [
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-10T14:36:19.662Z",
+    "date": "2026-10-11T14:56:54.341Z",
     "status": "scraped",
     "tags": [
       "CAD",
-      "Hidraulica"
+      "CAM"
     ],
-    "matchPercentage": 80,
-    "reason": "CAD Engineer la Bosch Rexroth (hidraulică/mecanică), 1-5 ani experiență, aliniat competențelor de proiectare."
-  },
-  {
-    "url": "https://eurotech-iasi.ro/tehnician-service-motoare-termice-2-si-4-timpi/",
-    "title": "TEHNICIAN SERVICE MOTOARE TERMICE 2 SI 4 TIMPI",
-    "company": "EUROTECH INVEST SRL",
-    "location": [
-      "Iași, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-10T14:39:55.814Z",
-    "status": "scraped",
-    "tags": [
-      "motoare termice",
-      "diagnosticare auto"
-    ],
-    "matchPercentage": 80,
-    "reason": "Service motoare termice 2 si 4 timpi foloseste direct proiectarea si diagnosticarea motoarelor cu ardere interna."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/mecanic-motoare-termice-4",
-    "title": "Mecanic/tehnician/inginer motoare termice",
-    "company": "VERDE MOTORS SRL",
-    "location": [
-      "Brașov, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-10T14:37:06.940Z",
-    "status": "scraped",
-    "tags": [
-      "motoare termice",
-      "diagnosticare auto"
-    ],
-    "matchPercentage": 80,
-    "reason": "Mecanic/tehnician/inginer motoare termice se potriveste direct pregatirii pe motoare si diagnostica."
-  },
-  {
-    "url": "https://www.randstad.ro/locuri-de-munca/inginer-proiectant-mecanic-cad_hunedoara_5373/",
-    "title": "Inginer Proiectant Mecanic CAD",
-    "company": "RANDSTAD ROMANIA SRL",
-    "location": [
-      "Hunedoara, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-10T14:37:08.307Z",
-    "status": "scraped",
-    "tags": [
-      "Proiectare mecanica",
-      "CAD"
-    ],
-    "matchPercentage": 78,
-    "reason": "Inginer proiectant mecanic CAD, folosește direct desenul tehnic și proiectarea mecanică, nivel de început/mediu."
-  },
-  {
-    "url": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Timisoara-RO/Function-Performance-Test-Engineer_R00243969",
-    "title": "Function Performance Test Engineer",
-    "company": "MAGNA ELECTRONICS ROMANIA S.R.L.",
-    "location": [
-      "Timișoara, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-10T14:41:01.103Z",
-    "status": "scraped",
-    "tags": [
-      "testare auto",
-      "mecatronica"
-    ],
-    "matchPercentage": 78,
-    "reason": "Inginer HiL pentru testarea functionala a sistemelor electronice auto, foloseste direct testarea si mecatronica auto la nivel de entry/mid."
+    "matchPercentage": 90,
+    "reason": "CAD/CAM se potrivește direct cu proiectarea asistată și fabricarea."
   },
   {
     "url": "https://multijobs.ro/job/asam-angajeaza-inginer-proiectant-solidworks/3731",
@@ -214,181 +27,79 @@
     "date": "2026-10-10T14:30:53.252Z",
     "status": "scraped",
     "tags": [
-      "proiectare 3D",
-      "desen tehnic"
+      "Proiectare 3D",
+      "CAD"
     ],
-    "matchPercentage": 78,
-    "reason": "Inginer proiectant SolidWorks, proiectare 3D si desen tehnic direct relevante."
+    "matchPercentage": 88,
+    "reason": "Inginer proiectant SolidWorks foloseste direct proiectarea CAD/3D, nivel entry/junior."
   },
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3366320",
-    "title": "PROIECTANT INGINER MECANIC",
-    "company": "BIT 2 BIT SOFT SRL",
+    "url": "https://www.bestjobs.eu/loc-de-munca/inginer-produse-hidraulica-industriala",
+    "title": "Inginer Produse – Hidraulică industrială",
+    "company": "LECOIMPEX SRL",
     "location": [
-      "Bucuresti sectorul 2, Romania"
+      "Strada Gheorghe Doja 260, Târgu Mureș, Romania"
     ],
     "salary": null,
-    "date": "2026-10-10T14:42:27.347Z",
+    "date": "2026-10-11T14:52:24.558Z",
     "status": "scraped",
     "tags": [
-      "desen tehnic",
-      "CAD/CAE"
+      "Hidraulica",
+      "Pneumatica"
     ],
-    "matchPercentage": 75,
-    "reason": "Proiectant inginer mecanic cu SolidWorks/AutoCAD, nivel entry-level potrivit."
+    "matchPercentage": 87,
+    "reason": "Inginer produse hidraulica industriala foloseste direct cunostintele de hidraulica si actionari."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/mecanic-intretinere-si-reparatii-autovehicule-1",
-    "title": "Mecanic întreținere și reparații autovehicule",
-    "company": "ARA - OȘINA S.R.L.",
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3407474",
+    "title": "INGINER AUTOVEHICULE RUTIERE",
+    "company": "ROMEURO SERVICE SRL",
     "location": [
-      "Strada Lacrimioarelor 4, Arad, Romania"
+      "Izvoare, Romania"
     ],
     "salary": null,
-    "date": "2026-10-10T14:42:21.460Z",
+    "date": "2026-10-11T14:46:13.638Z",
     "status": "scraped",
     "tags": [
-      "service auto",
-      "autovehicule"
+      "Autovehicule rutiere",
+      "Inginerie auto"
     ],
-    "matchPercentage": 75,
-    "reason": "Mecanic intretinere si reparatii autovehicule, direct in domeniul auto."
+    "matchPercentage": 85,
+    "reason": "Inginer autovehicule rutiere fără experiență cerută, potrivire directă."
   },
   {
-    "url": "https://www.ejobs.ro/user/locuri-de-munca/mecanic-intretinere-si-reparatii-autovehicule-si-utilaje/1988236",
-    "title": "Mecanic Intretinere si Reparatii Autovehicule si Utilaje",
-    "company": "UNITIP GLOBAL SRL",
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3235057",
+    "title": "INGINER AUTOVEHICULE RUTIERE",
+    "company": "INFOPRO DIGITAL AUTOMOTIVE SOCIETATE CU RASPUNDERE LIMITATĂ",
     "location": [
-      "Ilfov,Bucuresti, Romania"
+      "Bucuresti sectorul 5, Romania"
     ],
     "salary": null,
-    "date": "2026-10-10T14:36:15.362Z",
+    "date": "2026-10-10T14:30:25.855Z",
     "status": "scraped",
     "tags": [
-      "Diagnosticare auto",
-      "Mecanica auto"
+      "Autovehicule rutiere",
+      "Inginerie auto"
     ],
-    "matchPercentage": 75,
-    "reason": "Mecanic întreținere autovehicule și utilaje, se potrivește pe diagnosticare și service auto, nivel mediu."
+    "matchPercentage": 85,
+    "reason": "Inginer autovehicule rutiere sub 3 ani experiență, potrivire directă de domeniu și nivel."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/tehnician-tehnolog-prelucrari-mecanice-aschiere-1",
-    "title": "Tehnician/Tehnolog prelucrari mecanice aschiere",
-    "company": "FEROCET SRL",
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3413685",
+    "title": "INGINER AUTOVEHICULE RUTIERE",
+    "company": "MOLDOCOR SA",
     "location": [
-      "Pitești, Romania,Curtea de Arges, Romania,Ramnicu Valcea, Romania,Slatina, Romania,Ploiesti, Romania,Craiova, Romania,Buzau, Romania,Drobeta-Turnu Severin, Romania,Lugoj, Romania"
+      "Piatra-neamt, Romania"
     ],
     "salary": null,
-    "date": "2026-10-10T14:20:15.748Z",
+    "date": "2026-10-10T14:15:39.297Z",
     "status": "scraped",
     "tags": [
-      "prelucrari mecanice",
-      "masini-unelte"
+      "Autovehicule rutiere",
+      "Inginerie auto"
     ],
-    "matchPercentage": 75,
-    "reason": "Tehnolog prelucrari mecanice prin aschiere, foloseste direct competentele de fabricatie si masini-unelte."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/inginer-mecanic-solidworks-confectii-metalice-4",
-    "title": "Inginer mecanic SOLIDWORKS - confectii metalice",
-    "company": "DIGITAL TELECOMMS SRL",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-10T14:18:14.327Z",
-    "status": "scraped",
-    "tags": [
-      "proiectare 3D",
-      "organe de masini"
-    ],
-    "matchPercentage": 74,
-    "reason": "Inginer mecanic SolidWorks pentru confectii metalice, foloseste proiectarea CAD si organizarea de masini."
-  },
-  {
-    "url": "https://www.targuldecariere.ro/companii/retrasib/6485/inginer-prelucrare-modele",
-    "title": "Inginer proiectant mecanic",
-    "company": "RETRASIB S.R.L.",
-    "location": [
-      "Sibiu, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-10T14:41:05.424Z",
-    "status": "scraped",
-    "tags": [
-      "proiectare mecanica",
-      "CAD/CAE"
-    ],
-    "matchPercentage": 72,
-    "reason": "Inginer proiectant mecanic pentru modelare 3D si desene de executie."
-  },
-  {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/270502/AUMOVIO-Romania/Industrialization-Engineer-(m/f/div)---Test-Development",
-    "title": "Industrialization Engineer (m/f/div) - Test Development",
-    "company": "AUMOVIO TECHNOLOGIES ROMANIA S.R.L.",
-    "location": [
-      "Sibiu, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-10T14:35:25.961Z",
-    "status": "scraped",
-    "tags": [
-      "testare auto",
-      "electronica auto"
-    ],
-    "matchPercentage": 72,
-    "reason": "Industrialization/test development pentru electronica auto (senzori, frane, sisteme de asistenta), relevant pentru testare auto si electronica aplicata."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/tehnician-service-scule-pneumatice-si-hidraulice-1",
-    "title": "Tehnician service scule pneumatice si hidraulice",
-    "company": "VDL - ROTECH SRL",
-    "location": [
-      "Soseaua Oltenitei 181, Popesti-Leordeni, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-10T14:19:20.552Z",
-    "status": "scraped",
-    "tags": [
-      "hidraulica si pneumatica",
-      "diagnostica"
-    ],
-    "matchPercentage": 72,
-    "reason": "Service scule pneumatice si hidraulice, foloseste direct competentele de hidraulica si pneumatica."
-  },
-  {
-    "url": "https://www.publi24.ro/anunturi/locuri-de-munca/constructii-arhitectura-design/ingineri/anunt/tehnician-service-scule-pneumatice-si-hidraulice/gfg21di132h372hdee43f2eege41630g.html",
-    "title": "Tehnician service scule pneumatice si hidraulice",
-    "company": "PUBLI24 DIGITAL S.R.L.",
-    "location": [
-      "Popesti-Leordeni, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-30T15:56:27.125Z",
-    "status": "scraped",
-    "tags": [
-      "hidraulica si pneumatica",
-      "diagnostica"
-    ],
-    "matchPercentage": 72,
-    "reason": "Același post de tehnician service pneumatica/hidraulica repostat pe alt portal."
-  },
-  {
-    "url": "https://www.publi24.ro/anunturi/locuri-de-munca/constructii-arhitectura-design/electricieni/anunt/tehnician-service-scule-pneumatice-si-hidraulice/gh661d85de65731014e46498ef17d3h4.html",
-    "title": "Tehnician service scule pneumatice si hidraulice",
-    "company": "PUBLI24 DIGITAL S.R.L.",
-    "location": [
-      "Popesti-Leordeni, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-30T15:56:27.125Z",
-    "status": "scraped",
-    "tags": [
-      "hidraulica si pneumatica",
-      "diagnostica"
-    ],
-    "matchPercentage": 72,
-    "reason": "Tehnician service scule pneumatice/hidraulice cu 1-3 ani experienta, nivel potrivit."
+    "matchPercentage": 85,
+    "reason": "Inginer autovehicule rutiere fără experiență, potrivire directă de domeniu și nivel."
   },
   {
     "url": "https://www.ejobs.ro/user/locuri-de-munca/desenator-tehnic-proiectant-solidworks/1986923",
@@ -401,11 +112,79 @@
     "date": "2026-10-02T14:29:49.626Z",
     "status": "scraped",
     "tags": [
-      "proiectare 3D",
-      "desen tehnic"
+      "Desen tehnic",
+      "Proiectare 3D"
     ],
-    "matchPercentage": 72,
-    "reason": "Proiectant SolidWorks cu modelare 3D si desene de executie, nivel junior potrivit."
+    "matchPercentage": 85,
+    "reason": "Desenator tehnic/proiectant SolidWorks foloseste desen tehnic si modelare 3D, nivel junior (1 an)."
+  },
+  {
+    "url": "https://multijobs.ro/job/tehnician-diagnoza-inginer-autovehicule-rutiere/6100",
+    "title": "Tehnician diagnoza/Inginer autovehicule rutiere",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Sibiu, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-11T14:47:10.429Z",
+    "status": "scraped",
+    "tags": [
+      "Diagnosticare auto",
+      "Autovehicule rutiere"
+    ],
+    "matchPercentage": 82,
+    "reason": "Tehnician diagnoză/inginer autovehicule rutiere, domeniu direct și nivel de entry."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/inginer-mecanic-solidworks-confectii-metalice-4",
+    "title": "Inginer mecanic SOLIDWORKS - confectii metalice",
+    "company": "DIGITAL TELECOMMS SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-10T14:18:14.327Z",
+    "status": "scraped",
+    "tags": [
+      "SolidWorks",
+      "Organe de masini"
+    ],
+    "matchPercentage": 82,
+    "reason": "Inginer mecanic SolidWorks pentru confectii metalice, potrivire buna pe proiectare mecanica."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/265055/Hipo-Job-Finder/Product-Validation-Test-Engineer-(F/M)---Marquardt",
+    "title": "Product Validation Test Engineer (F/M) - Marquardt",
+    "company": "HIPO COMPANY GRUP SRL",
+    "location": [
+      "Sibiu, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-11T15:06:22.248Z",
+    "status": "scraped",
+    "tags": [
+      "Omologare",
+      "Incercare"
+    ],
+    "matchPercentage": 78,
+    "reason": "Product Validation Test Engineer la furnizor auto (Marquardt), potrivire directă pe testare/validare și nivel 1-5 ani."
+  },
+  {
+    "url": "https://multijobs.ro/job/inginer-autovehicule-rutiere/3798",
+    "title": "Inginer autovehicule rutiere",
+    "company": "CHAMADE SRL",
+    "location": [
+      "Botosani, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-11T14:45:40.819Z",
+    "status": "scraped",
+    "tags": [
+      "Autovehicule rutiere",
+      "Inginerie auto"
+    ],
+    "matchPercentage": 78,
+    "reason": "Inginer autovehicule rutiere, titlu direct relevant pentru profilul tău."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/tehnician-electric-automatizari-si-mecanica-2",
@@ -415,48 +194,184 @@
       "Soseaua Pipera 14, etaj 3, Sector 1, Bucuresti 014255, Romania"
     ],
     "salary": null,
-    "date": "2026-10-10T14:43:00.656Z",
+    "date": "2026-10-11T14:56:28.839Z",
     "status": "scraped",
     "tags": [
       "automatizari",
       "mecatronica"
     ],
-    "matchPercentage": 70,
-    "reason": "Tehnician care combina electric, automatizari si mecanica se potriveste competențelor de mecatronica, la nivel tehnician."
+    "matchPercentage": 78,
+    "reason": "Tehnician in electrica, automatizari si mecanica foloseste direct competentele de mecatronica."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/tehnician-mecanica-fina-10",
-    "title": "Tehnician mecanica fina",
-    "company": "KENDRION INDUSTRIAL (SIBIU) SRL",
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3341892",
+    "title": "LABORANT DETERMINARI FIZICO-MECANICE",
+    "company": "COMPANIA NATIONALA ROMARM S.A. FILIALA SOCIETATEA METROM S.A.",
     "location": [
-      "Soseaua Sibiului 139, Selimbar 557260, Romania,Sibiu, Romania"
+      "Brașov, Romania"
     ],
     "salary": null,
-    "date": "2026-10-10T14:28:27.424Z",
+    "date": "2026-10-11T14:52:33.254Z",
     "status": "scraped",
     "tags": [
-      "mecanica fina",
-      "prelucrare mecanica"
+      "rezistenta materialelor",
+      "tehnologia materialelor"
     ],
-    "matchPercentage": 70,
-    "reason": "Tehnician mecanica fina, muncă de precizie mecanică potrivită pentru absolventii de profil."
+    "matchPercentage": 76,
+    "reason": "Laborant determinari fizico-mecanice se bazeaza pe rezistenta materialelor si tehnologia materialelor."
   },
   {
-    "url": "https://8ore.ro/locuri-de-munca/reglor-masini-fabrica-automotive-popesti-leordeni",
-    "title": "Reglor masini-Fabrica automotive-Popesti Leordeni",
-    "company": "RECRUITMENT MARATHON S.R.L.",
+    "url": "https://www.bestjobs.eu/loc-de-munca/tehnician-service-scule-pneumatice-si-hidraulice-1",
+    "title": "Tehnician service scule pneumatice si hidraulice",
+    "company": "VDL - ROTECH SRL",
     "location": [
-      "Popesti Leordeni, Romania"
+      "Soseaua Oltenitei 181, Popesti-Leordeni, Romania"
     ],
     "salary": null,
-    "date": "2026-10-10T14:42:48.130Z",
+    "date": "2026-10-10T14:19:20.552Z",
     "status": "scraped",
     "tags": [
-      "masini-unelte",
-      "mentenanta"
+      "hidraulica",
+      "pneumatica"
+    ],
+    "matchPercentage": 74,
+    "reason": "Service tehnic pentru scule pneumatice si hidraulice corespunde competentelor de hidraulica si pneumatica."
+  },
+  {
+    "url": "https://www.publi24.ro/anunturi/locuri-de-munca/constructii-arhitectura-design/ingineri/anunt/tehnician-service-scule-pneumatice-si-hidraulice/gfg21di132h372hdee43f2eege41630g.html",
+    "title": "Tehnician service scule pneumatice si hidraulice",
+    "company": "PUBLI24 DIGITAL S.R.L.",
+    "location": [
+      "Popesti-Leordeni, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-30T15:56:27.125Z",
+    "status": "scraped",
+    "tags": [
+      "hidraulica",
+      "pneumatica"
+    ],
+    "matchPercentage": 74,
+    "reason": "Acceasi pozitie de tehnician service scule pneumatice si hidraulice, potrivita pe hidraulica/pneumatica."
+  },
+  {
+    "url": "https://www.publi24.ro/anunturi/locuri-de-munca/constructii-arhitectura-design/electricieni/anunt/tehnician-service-scule-pneumatice-si-hidraulice/gh661d85de65731014e46498ef17d3h4.html",
+    "title": "Tehnician service scule pneumatice si hidraulice",
+    "company": "PUBLI24 DIGITAL S.R.L.",
+    "location": [
+      "Popesti-Leordeni, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-30T15:56:27.125Z",
+    "status": "scraped",
+    "tags": [
+      "hidraulica",
+      "pneumatica"
+    ],
+    "matchPercentage": 74,
+    "reason": "Tehnician service scule pneumatice si hidraulice cu 1-3 ani experienta, nivel si domeniu potrivite."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/tehnician-tehnolog-prelucrari-mecanice-aschiere-1",
+    "title": "Tehnician/Tehnolog prelucrari mecanice aschiere",
+    "company": "FEROCET SRL",
+    "location": [
+      "Pitești, Romania,Curtea de Arges, Romania,Ramnicu Valcea, Romania,Slatina, Romania,Ploiesti, Romania,Craiova, Romania,Buzau, Romania,Drobeta-Turnu Severin, Romania,Lugoj, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-10T14:20:15.748Z",
+    "status": "scraped",
+    "tags": [
+      "prelucrare mecanica",
+      "masini-unelte"
+    ],
+    "matchPercentage": 73,
+    "reason": "Tehnician/tehnolog prelucrari mecanice aschiere corespunde competentelor de prelucrare mecanica si masini-unelte."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/270114/Bosch-Romania/CAD-Engineer",
+    "title": "CAD Engineer",
+    "company": "BOSCH REXROTH S.R.L.",
+    "location": [
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-11T15:06:22.248Z",
+    "status": "scraped",
+    "tags": [
+      "CAD/CAE",
+      "hidraulica"
+    ],
+    "matchPercentage": 72,
+    "reason": "Inginer CAD la Bosch Rexroth (hidraulica/pneumatica), potrivit pentru proiectare mecanica asistata, nivel junior/mid."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/tehnician-prelucrari-mecanice-2",
+    "title": "Tehnician prelucrari mecanice",
+    "company": "ELECTROMONTAJ SA BUCURESTI SUCURSALA BUCURESTI",
+    "location": [
+      "Bulevardul Iuliu Maniu 220, Bucuresti 061087, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-11T15:06:21.336Z",
+    "status": "scraped",
+    "tags": [
+      "prelucrare mecanica",
+      "masini-unelte"
+    ],
+    "matchPercentage": 72,
+    "reason": "Tehnician prelucrari mecanice foloseste competentele de prelucrare mecanica si masini-unelte."
+  },
+  {
+    "url": "https://www.teamland.ro/apply.php?id=1246#content",
+    "title": "Laborant determinari fizico-mecanice",
+    "company": "TEAMLAND SRL",
+    "location": [
+      "Ploiesti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-11T14:50:29.724Z",
+    "status": "scraped",
+    "tags": [
+      "rezistenta materialelor",
+      "tehnologia materialelor"
+    ],
+    "matchPercentage": 72,
+    "reason": "Laborant determinari fizico-mecanice potrivit pe analiza si testarea materialelor."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3396048",
+    "title": "LABORANT DETERMINARI FIZICO-MECANICE",
+    "company": "PRAGOSA ROMANIA SRL",
+    "location": [
+      "Moara vlasiei, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-11T14:46:38.487Z",
+    "status": "scraped",
+    "tags": [
+      "rezistenta materialelor",
+      "tehnologia materialelor"
+    ],
+    "matchPercentage": 70,
+    "reason": "Laborant determinari fizico-mecanice, domeniu relevant cu nivel entry permis."
+  },
+  {
+    "url": "https://8ore.ro/locuri-de-munca/angajam-mecanic-electrician-auto",
+    "title": "Angajam Mecanic / Electrician Auto",
+    "company": "TOPRAISAR AUTO AGRO S.R.L.",
+    "location": [
+      "Constanta, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-11T15:10:23.541Z",
+    "status": "scraped",
+    "tags": [
+      "diagnoza auto",
+      "service auto"
     ],
     "matchPercentage": 68,
-    "reason": "Reglor de utilaje in fabrica automotive, foloseste cunostinte de prelucrare mecanica si masini-unelte, nivel entry."
+    "reason": "Mecanic/electrician auto intr-un service autorizat RAR, foloseste direct competentele de diagnoza si service auto la nivel de inceput."
   },
   {
     "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/271081/Bosch-Romania/Test-Engineer",
@@ -466,47 +381,81 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-10T14:36:19.662Z",
+    "date": "2026-10-11T15:06:22.248Z",
     "status": "scraped",
     "tags": [
-      "hidraulica",
-      "testare"
+      "Hidraulica",
+      "Incercare"
     ],
     "matchPercentage": 68,
-    "reason": "Test engineer la Bosch Rexroth (hidraulica/sisteme de actionare) cu 1-5 ani experienta, potrivit partial pe testare si hidraulica."
+    "reason": "Test Engineer la Bosch Rexroth (hidraulică/pneumatică) pe nivel 1-5 ani, potrivit parțial pe componente de acționare."
   },
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3366312",
-    "title": "INGINER ELECTRONIST TRANSPORTURI, TELECOMUNICATII",
-    "company": "BIT 2 BIT SOFT SRL",
+    "url": "https://www.ejobs.ro/user/locuri-de-munca/mecanic-intretinere-si-reparatii-autovehicule-si-utilaje/1988236",
+    "title": "Mecanic Intretinere si Reparatii Autovehicule si Utilaje",
+    "company": "UNITIP GLOBAL SRL",
     "location": [
-      "Bucuresti sectorul 2, Romania"
+      "Ilfov,Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-10-10T14:42:27.347Z",
+    "date": "2026-10-11T14:43:02.956Z",
     "status": "scraped",
     "tags": [
-      "electronica aplicata",
-      "microprocesoare"
+      "Hidraulică-pneumatică",
+      "Service auto"
     ],
-    "matchPercentage": 65,
-    "reason": "Inginer electronist entry-level cu proiectare PCB si testare in laborator, potrivit partial cu competentele de electronica aplicata."
+    "matchPercentage": 64,
+    "reason": "Mecanic auto și utilaje, folosește hidraulică/pneumatică și diagnosticare auto."
   },
   {
-    "url": "https://www.jobradar24.ro/anunt/inginer-tehnic-proiectare-cad-457wve",
-    "title": "Inginer Tehnic HVAC – Proiectare CAD",
-    "company": "ROVA TECH INSTALL S.R.L.",
+    "url": "https://8ore.ro/locuri-de-munca/ucenic-mecanic-auto",
+    "title": "Ucenic mecanic auto",
+    "company": "KAIZEN AUTO SRL",
     "location": [
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-10-10T14:26:10.267Z",
+    "date": "2026-10-11T15:10:19.923Z",
     "status": "scraped",
     "tags": [
-      "proiectare CAD",
-      "desen tehnic"
+      "service auto",
+      "diagnoza auto"
     ],
-    "matchPercentage": 65,
-    "reason": "Proiectare CAD cu desen tehnic pentru sisteme de ventilatie, potrivire partiala pe competentele de proiectare."
+    "matchPercentage": 62,
+    "reason": "Ucenic mecanic auto intr-un service Toyota, domeniu de service/diagnoza auto potrivit la nivel de entry."
+  },
+  {
+    "url": "https://multijobs.ro/job/tehnician-service-mobil-scutere-si-tricicluri/3334",
+    "title": "Tehnician Service Mobil - Scutere si Tricicluri",
+    "company": "CARPATIK IMPEX SRL",
+    "location": [
+      "Gaesti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-11T15:10:09.724Z",
+    "status": "scraped",
+    "tags": [
+      "Diagnostica",
+      "Motoare"
+    ],
+    "matchPercentage": 62,
+    "reason": "Tehnician service mobil pentru scutere/tricicluri, se potrivește parțial pe diagnostica și service auto la nivel entry."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/mecanic-intretinere-si-reparatii-autovehicule-1",
+    "title": "Mecanic întreținere și reparații autovehicule",
+    "company": "ARA - OȘINA S.R.L.",
+    "location": [
+      "Strada Lacrimioarelor 4, Arad, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-11T14:45:00.689Z",
+    "status": "scraped",
+    "tags": [
+      "Service auto",
+      "Mecanică"
+    ],
+    "matchPercentage": 62,
+    "reason": "Mecanic întreținere/reparații auto, folosește competențe de service și diagnosticare."
   }
 ]
