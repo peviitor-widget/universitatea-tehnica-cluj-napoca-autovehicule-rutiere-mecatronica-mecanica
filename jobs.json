@@ -1,1 +1,194 @@
-[]
+[
+  {
+    "url": "https://multijobs.ro/job/inginer-autovehicule-rutiere/3798",
+    "title": "Inginer autovehicule rutiere",
+    "company": "CHAMADE SRL",
+    "location": [
+      "Botosani",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-16T13:03:19.885Z",
+    "status": "scraped",
+    "tags": [
+      "Autovehicule rutiere",
+      "Proiectare"
+    ],
+    "matchPercentage": 95,
+    "reason": "Titlul și domeniul se potrivesc direct cu specializarea Inginerie Auto."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272914/Emerson/Internship-Drafter-(12-Months)",
+    "title": "Internship Drafter (12 Months)",
+    "company": "EMERSON SRL",
+    "location": [
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-16T13:03:34.775Z",
+    "status": "scraped",
+    "tags": [
+      "Proiectare si fabricatie asistata de calculator",
+      "Desen tehnic, infografica si proiectare 3D"
+    ],
+    "matchPercentage": 82,
+    "reason": "Rol de drafter (desen tehnic, modelare CAD 3D) intr-un mediu de automatizare industriala, la nivel de internship, potrivit direct pentru competentele de proiectare si CAD."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/tehnician-electric-automatizari-si-mecanica-2",
+    "title": "Tehnician electric, automatizări și mecanică",
+    "company": "SCOPE SYSTEMS S.R.L.",
+    "location": [
+      "Soseaua Pipera 14",
+      "etaj 3",
+      "Sector 1",
+      "Bucuresti 014255",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-16T13:02:35.241Z",
+    "status": "scraped",
+    "tags": [
+      "Automatizari",
+      "Electrotehnica"
+    ],
+    "matchPercentage": 80,
+    "reason": "Pozitia de tehnician electric, automatizari si mecanica utilizeaza direct competentele de electrotehnica, automatizari si mecanica, la nivel entry-level potrivit pentru absolvent."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154007331-working-student-line-engineering-support",
+    "title": "Working Student – Line Engineering Support",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-10-16T11:06:47.945Z",
+    "status": "scraped",
+    "tags": [
+      "Mecatronica si sisteme de control auto",
+      "Fabricatie si prelucrare mecanica"
+    ],
+    "matchPercentage": 72,
+    "reason": "Line engineering support in plant auto permite aplicarea cunostintelor universitare de inginerie, mecatronica si tehnologia productiei."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/inginer-proiectant-mecanic-175",
+    "title": "Inginer proiectant mecanic",
+    "company": "ROSCHIWAL+PARTNER ENGINEERING REŞIŢA SRL",
+    "location": [
+      "Resita",
+      "Judetul Caras-Severin",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-16T13:03:16.066Z",
+    "status": "scraped",
+    "tags": [
+      "Organe de mașini",
+      "CAD"
+    ],
+    "matchPercentage": 70,
+    "reason": "Proiectare mecanică generală folosește organe de mașini și CAD, dar nu specifică aplicații auto."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/mecanic-auto-1372",
+    "title": "MECANIC AUTO",
+    "company": "ION &amp; VASILE &amp; CONSTANTIN SERVICE COM SRL",
+    "location": [
+      "Craiova",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-16T13:03:16.066Z",
+    "status": "scraped",
+    "tags": [
+      "Diagnosticare auto",
+      "Service auto"
+    ],
+    "matchPercentage": 70,
+    "reason": "Mecanic auto - diagnosticarea și reparațiile autovehiculelor folosesc direct competențele de diagnosticare și service auto, potrivit pentru nivel junior."
+  },
+  {
+    "url": "https://jobs.bosch.com/en/job/REF296195A-working-student-industrial-engineering",
+    "title": "Working Student Industrial Engineering",
+    "company": "BOSCH REXROTH S.R.L.",
+    "location": [
+      "Jucu",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-16T13:03:18.822Z",
+    "status": "scraped",
+    "tags": [
+      "Prelucrare mecanica",
+      "Proiectare si fabricatie asistata de calculator"
+    ],
+    "matchPercentage": 68,
+    "reason": "Ingineria industrială (metode, procese, optimizare fabricație) se potrivește cu competențele de fabricație, CAD/CAM și tehnologia materialelor, la nivel de working student."
+  },
+  {
+    "url": "https://multijobs.ro/job/autodaris-car-service-angajeaza-tinichigiu-si-mecanic-auto/3147",
+    "title": "AUTODARIS CAR SERVICE ANGAJEAZA TINICHIGIU SI MECANIC AUTO",
+    "company": "TURCU CAR SERVICE S.R.L.",
+    "location": [
+      "Timișoara",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-16T13:03:18.822Z",
+    "status": "scraped",
+    "tags": [
+      "Diagnosticare auto",
+      "Service auto"
+    ],
+    "matchPercentage": 68,
+    "reason": "Tinichigiu și mecanic auto - domeniul service auto și diagnosticarea autovehiculelor se potrivește cu competențele de diagnostica și service auto, la nivel entry-level."
+  },
+  {
+    "url": "https://www.jobradar24.ro/anunt/inginer-receptie-service-d9jr65",
+    "title": "INGINER RECEPTIE SERVICE",
+    "company": "TH TRUCKS S.R.L.",
+    "location": [
+      "Iași",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-16T13:03:34.775Z",
+    "status": "scraped",
+    "tags": [
+      "Diagnosticare",
+      "Service auto"
+    ],
+    "matchPercentage": 65,
+    "reason": "Service pentru camioane DAF poate folosi cunoștințe de diagnosticare și reparații auto, dar sarcinile exacte sunt neclare."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/tehnician-mentenanta-industriala-5-500-lei-net",
+    "title": "Tehnician Mentenanta Industriala – 5.500 lei NET",
+    "company": "CTP AUTOTRADE GROUP S.R.L.",
+    "location": [
+      "Ploiesti",
+      "Romania",
+      "Balta Doamnei",
+      "Romania",
+      "Balotesti",
+      "Romania",
+      "Moara Vlasiei",
+      "Romania",
+      "Bucuresti",
+      "Romania",
+      "Stefanestii de Jos",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-16T13:03:22.866Z",
+    "status": "scraped",
+    "tags": [
+      "Mecatronica si sisteme",
+      "Prelucrare mecanica"
+    ],
+    "matchPercentage": 62,
+    "reason": "Tehnician de mentenanță mecanică/industrială la nivel entry, care folosește direct competențe de prelucrare mecanică, mecatronica și diagnoză tehnică."
+  }
+]
