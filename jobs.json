@@ -1,5 +1,23 @@
 [
   {
+    "url": "https://multijobs.ro/job/tehnician-diagnoza-inginer-autovehicule-rutiere/6100",
+    "title": "Tehnician diagnoza/Inginer autovehicule rutiere",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Sibiu",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:22:34.311Z",
+    "status": "scraped",
+    "tags": [
+      "diagnosticare",
+      "autovehicule"
+    ],
+    "matchPercentage": 90,
+    "reason": "Diagnosticare și tehnică pentru autovehicule rutiere - direct relevant"
+  },
+  {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3235057",
     "title": "INGINER AUTOVEHICULE RUTIERE",
     "company": "INFOPRO DIGITAL AUTOMOTIVE SOCIETATE CU RASPUNDERE LIMITATĂ",
@@ -11,11 +29,11 @@
     "date": "2026-10-17T12:15:34.907Z",
     "status": "scraped",
     "tags": [
-      "autovehicule rutiere",
-      "proiectare auto"
+      "proiectare autovehicule",
+      "inginerie auto"
     ],
     "matchPercentage": 90,
-    "reason": "Inginer autovehicule rutiere cu mai puțin de 3 ani experiență, direct aliniat competențelor de proiectare și analiză auto."
+    "reason": "Inginer autovehicule rutiere cu sub 3 ani experiență, potrivire directă de domeniu și nivel."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3391588",
@@ -32,79 +50,26 @@
       "autovehicule rutiere",
       "diagnostica auto"
     ],
-    "matchPercentage": 86,
-    "reason": "Post de inginer autovehicule rutiere cu studii superioare și 0 ani experiență, potrivit pentru entry-level."
+    "matchPercentage": 85,
+    "reason": "Post explicit de inginer autovehicule rutiere fara experienta ceruta, potrivit pentru absolvent."
   },
   {
-    "url": "https://multijobs.ro/job/tehnician-diagnoza-inginer-autovehicule-rutiere/6100",
-    "title": "Tehnician diagnoza/Inginer autovehicule rutiere",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "url": "https://eurotech-iasi.ro/tehnician-service-motoare-termice-2-si-4-timpi/",
+    "title": "TEHNICIAN SERVICE MOTOARE TERMICE 2 SI 4 TIMPI",
+    "company": "EUROTECH INVEST SRL",
     "location": [
-      "Sibiu",
+      "Iași",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-17T12:22:34.311Z",
+    "date": "2026-10-17T12:03:37.792Z",
     "status": "scraped",
     "tags": [
       "diagnosticare auto",
-      "autovehicule rutiere"
-    ],
-    "matchPercentage": 85,
-    "reason": "Diagnosticarea și ingineria autovehiculelor rutiere se potrivesc direct cu competențele tale."
-  },
-  {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155927730-electronics-hardware-design-engineer",
-    "title": "Electronics Hardware Design Engineer",
-    "company": "ROBERT BOSCH SRL",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-10-29T12:41:42.608Z",
-    "status": "scraped",
-    "tags": [
-      "electronică auto",
-      "propulsie"
-    ],
-    "matchPercentage": 85,
-    "reason": "Rol de proiectare hardware electronică pentru grupul motopropulsor auto, potrivit competențelor de electronică aplicată și propulsie."
-  },
-  {
-    "url": "https://www.jobradar24.ro/anunt/mecanic-cu-experienta-sau-fara-9k646n",
-    "title": "Mecanic cu experienta sau fara",
-    "company": "ARDOR VEHICULE INDUSTRIALE SRL",
-    "location": [
-      "Bragadiru",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:18:50.213Z",
-    "status": "scraped",
-    "tags": [
-      "service auto",
-      "diagnosticare"
-    ],
-    "matchPercentage": 85,
-    "reason": "Mecanic service semiremorci, potrivit pentru competente de diagnosticare si service auto."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3383112",
-    "title": "MECANIC AUTO",
-    "company": "KRONSTEF SRL",
-    "location": [
-      "Sibiu",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:22:35.322Z",
-    "status": "scraped",
-    "tags": [
-      "diagnosticare auto",
-      "identificare defectiuni"
+      "motoare termice"
     ],
     "matchPercentage": 82,
-    "reason": "Post de mecanic auto cu experiență redusă, direct în diagnosticarea și service-ul autovehiculelor."
+    "reason": "Tehnician service pentru motoare termice, cu sarcini directe de diagnosticare și reparare, potrivite competențelor auto și motoarelor cu ardere internă."
   },
   {
     "url": "https://multijobs.ro/job/inginer-autovehicule-rutiere/3798",
@@ -119,46 +84,27 @@
     "status": "scraped",
     "tags": [
       "autovehicule rutiere",
-      "proiectare autovehicule"
+      "proiectare auto"
+    ],
+    "matchPercentage": 80,
+    "reason": "Titlul si domeniul sunt direct relevante pentru inginerul de autovehicule rutiere, iar nivelul pare compatibil cu un absolvent."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155927730-electronics-hardware-design-engineer",
+    "title": "Electronics Hardware Design Engineer",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-10-30T12:33:14.291Z",
+    "status": "scraped",
+    "tags": [
+      "electronică aplicată",
+      "autovehicule electrice"
     ],
     "matchPercentage": 78,
-    "reason": "Titlul de inginer autovehicule rutiere este direct relevant, iar anunțul nu indică un nivel senior."
-  },
-  {
-    "url": "https://eurotech-iasi.ro/tehnician-service-motoare-termice-2-si-4-timpi/",
-    "title": "TEHNICIAN SERVICE MOTOARE TERMICE 2 SI 4 TIMPI",
-    "company": "EUROTECH INVEST SRL",
-    "location": [
-      "Iași",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:03:37.792Z",
-    "status": "scraped",
-    "tags": [
-      "Motoare ardere internă",
-      "Diagnosticare auto"
-    ],
-    "matchPercentage": 70,
-    "reason": "Service și diagnosticare motoare termice 2/4 timpi, direct relevant pentru motoare cu ardere internă și diagnoză auto."
-  },
-  {
-    "url": "https://jobs.lever.co/tsmg/ee847722-709f-4799-a2f1-b590d2c0d8f7",
-    "title": "Autonomous vehicle Test Operator",
-    "company": "TSM GREEN WAY S.R.L.",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:22:46.784Z",
-    "status": "scraped",
-    "tags": [
-      "vehicule autonome",
-      "diagnosticare"
-    ],
-    "matchPercentage": 70,
-    "reason": "Operare si testare vehicule autonome, relevanta pentru sisteme auto si telematica."
+    "reason": "Proiectare hardware electronic pentru powertrain auto, domeniu și nivel de inginer potrivite."
   },
   {
     "url": "https://fjobs.ro/job/inginer-proiectare-mecanica-2/",
@@ -173,10 +119,10 @@
     "status": "scraped",
     "tags": [
       "proiectare mecanica",
-      "CAD/CAE"
+      "CAD"
     ],
-    "matchPercentage": 70,
-    "reason": "Proiectarea mecanică solicită competențe de CAD/CAE și organe de mașini, fără cerință de senioritate."
+    "matchPercentage": 75,
+    "reason": "Post de proiectare mecanica, relevant pentru competentele de proiectare si CAD, cu nivel compatibil."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3166487",
@@ -186,50 +132,85 @@
       "România"
     ],
     "salary": null,
-    "date": "2026-10-29T12:27:03.115Z",
+    "date": "2026-10-30T12:18:51.089Z",
     "status": "scraped",
     "tags": [
-      "proiectare mecanica",
-      "rezistenta materialelor"
+      "organe de masini",
+      "CAD/CAE"
     ],
-    "matchPercentage": 68,
-    "reason": "Post de inginer mecanic entry-level ce poate valorifica proiectarea mecanică și rezistența materialelor."
+    "matchPercentage": 70,
+    "reason": "Post de inginer mecanic pentru absolventi cu sub 3 ani experienta, cu aplicare directa a competentelor de mecanica."
   },
   {
-    "url": "https://www.randstad.ro/locuri-de-munca/tehnician-service-echipamente-electromecanice_bucuresti_5412/",
-    "title": "tehnician service - echipamente electromecanice",
-    "company": "RANDSTAD ROMANIA SRL",
+    "url": "https://cariere.aerostar.ro/jobs/c3d02de4-1276-43bc-9772-91b3d606add9",
+    "title": "INSPECTOR DE CALITATE",
+    "company": "AEROSTAR SA",
     "location": [
-      "București",
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-10-30T12:18:51.089Z",
+    "status": "scraped",
+    "tags": [
+      "control dimensional",
+      "desen tehnic"
+    ],
+    "matchPercentage": 65,
+    "reason": "Inspector de calitate în fabricație mecanică, folosește desen tehnic și control dimensional, dar nu este domeniu auto."
+  },
+  {
+    "url": "https://jobs.zollner.ro/jobposting/b6b83168c8d191aadedc69f020f5f0c82e6df9ee0",
+    "title": "Inginer sisteme de testare",
+    "company": "ZES ZOLLNER ELECTRONIC SRL",
+    "location": [
+      "Satu Mare",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-29T12:15:39.718Z",
+    "date": "2026-10-17T12:22:35.934Z",
     "status": "scraped",
     "tags": [
-      "mecatronica",
-      "diagnosticare"
+      "electronica",
+      "testare"
     ],
     "matchPercentage": 65,
-    "reason": "Instalare și mentenanță pentru echipamente electromecanice și sisteme robotizate, potrivite parțial cu mecatronica."
+    "reason": "Inginer testare pentru electronică/mecatronică, folosește competențe de electronică, programare și testare la nivel de entry/junior."
   },
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3341892",
-    "title": "LABORANT DETERMINARI FIZICO-MECANICE",
-    "company": "COMPANIA NATIONALA ROMARM S.A. FILIALA SOCIETATEA METROM S.A.",
+    "url": "https://www.jobradar24.ro/anunt/mecanic-cu-experienta-sau-fara-9k646n",
+    "title": "Mecanic cu experienta sau fara",
+    "company": "ARDOR VEHICULE INDUSTRIALE SRL",
     "location": [
-      "Brașov",
+      "Bragadiru",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-17T12:08:13.624Z",
+    "date": "2026-10-17T12:18:50.213Z",
     "status": "scraped",
     "tags": [
-      "Tehnologia materialelor",
-      "control dimensional"
+      "diagnostica auto",
+      "service auto"
     ],
     "matchPercentage": 65,
-    "reason": "Determinări fizico-mecanice în laborator, nivel universitar entry-level, parțial relevante pentru materiale și control dimensional."
+    "reason": "Post de mecanic in service pentru semiremorci, in domeniul auto si cu acceptare fara experienta, dar cu accent pe lucru practic de service."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000151771625-software-test-engineer",
+    "title": "Software Test Engineer",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-30T12:33:14.291Z",
+    "status": "scraped",
+    "tags": [
+      "programare",
+      "microprocesoare"
+    ],
+    "matchPercentage": 65,
+    "reason": "Testare software pentru dispozitive embedded si sisteme conectate, relevanta partial pentru electronica si microprocesoarele auto."
   },
   {
     "url": "https://www.ejobs.ro/user/locuri-de-munca/mecanic-intretinere-si-reparatii-autovehicule-si-utilaje/1988236",
@@ -245,26 +226,27 @@
     "status": "scraped",
     "tags": [
       "diagnostica auto",
-      "service auto"
+      "mecanica auto"
     ],
-    "matchPercentage": 64,
-    "reason": "Întreținerea și repararea autovehiculelor și utilajelor folosesc diagnosticarea auto și hidraulica/pneumatica, la nivel tehnic accesibil."
+    "matchPercentage": 65,
+    "reason": "Job de service auto cu diagnoza si reparatii mecanice, relevant partial pentru un absolvent, dar sub nivelul de proiectare."
   },
   {
-    "url": "https://cariere.aerostar.ro/jobs/c3d02de4-1276-43bc-9772-91b3d606add9",
-    "title": "INSPECTOR DE CALITATE",
-    "company": "AEROSTAR SA",
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3341892",
+    "title": "LABORANT DETERMINARI FIZICO-MECANICE",
+    "company": "COMPANIA NATIONALA ROMARM S.A. FILIALA SOCIETATEA METROM S.A.",
     "location": [
-      "România"
+      "Brașov",
+      "Romania"
     ],
     "salary": null,
-    "date": "2026-10-29T12:27:03.115Z",
+    "date": "2026-10-17T12:08:13.624Z",
     "status": "scraped",
     "tags": [
-      "control dimensional",
-      "desen tehnic"
+      "rezistenta materialelor",
+      "tehnologia materialelor"
     ],
     "matchPercentage": 62,
-    "reason": "Inspector de calitate în industrie aerospațială, folosind desene tehnice și control dimensional, dar fără proiectare auto."
+    "reason": "Laborant determinari fizico-mecanice in industrie mecanica, foloseste partial cunostinte de rezistenta materialelor si tehnologia materialelor, nivel entry cu sub 3 ani experienta."
   }
 ]
