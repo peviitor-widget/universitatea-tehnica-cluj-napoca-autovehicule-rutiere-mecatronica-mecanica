@@ -1,5 +1,23 @@
 [
   {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3235057",
+    "title": "INGINER AUTOVEHICULE RUTIERE",
+    "company": "INFOPRO DIGITAL AUTOMOTIVE SOCIETATE CU RASPUNDERE LIMITATĂ",
+    "location": [
+      "Bucuresti sectorul 5",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:15:34.907Z",
+    "status": "scraped",
+    "tags": [
+      "autovehicule rutiere",
+      "proiectare auto"
+    ],
+    "matchPercentage": 88,
+    "reason": "Inginer autovehicule rutiere pentru absolvent cu sub 3 ani experiență, potrivire directă pe domeniu și nivel."
+  },
+  {
     "url": "https://multijobs.ro/job/tehnician-diagnoza-inginer-autovehicule-rutiere/6100",
     "title": "Tehnician diagnoza/Inginer autovehicule rutiere",
     "company": "MULTIDATA MANAGEMENT S.R.L.",
@@ -14,43 +32,8 @@
       "diagnosticare auto",
       "autovehicule rutiere"
     ],
-    "matchPercentage": 88,
-    "reason": "Post dedicat diagnosticării autovehiculelor rutiere, potrivit competențelor auto."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3235057",
-    "title": "INGINER AUTOVEHICULE RUTIERE",
-    "company": "INFOPRO DIGITAL AUTOMOTIVE SOCIETATE CU RASPUNDERE LIMITATĂ",
-    "location": [
-      "Bucuresti sectorul 5",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:15:34.907Z",
-    "status": "scraped",
-    "tags": [
-      "Inginerie auto",
-      "Proiectare autovehicule"
-    ],
-    "matchPercentage": 88,
-    "reason": "Inginer autovehicule rutiere cu sub 3 ani experienta, potrivire directa de domeniu si nivel."
-  },
-  {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155927730-electronics-hardware-design-engineer",
-    "title": "Electronics Hardware Design Engineer",
-    "company": "ROBERT BOSCH SRL",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-11-09T15:48:17.854Z",
-    "status": "scraped",
-    "tags": [
-      "Electronica aplicata",
-      "Sisteme de control auto"
-    ],
-    "matchPercentage": 82,
-    "reason": "Proiectare si validare hardware electronic pentru powertrain auto, potrivit competentelor de electronica aplicata."
+    "matchPercentage": 85,
+    "reason": "Post direct de tehnician diagnoză/inginer autovehicule rutiere, potrivit pentru absolvent sau student la anii mari."
   },
   {
     "url": "https://multijobs.ro/job/inginer-autovehicule-rutiere/3798",
@@ -64,11 +47,11 @@
     "date": "2026-10-17T12:05:13.514Z",
     "status": "scraped",
     "tags": [
-      "Proiectare autovehicule",
-      "dinamica autovehiculelor"
+      "autovehicule rutiere",
+      "proiectare autovehicule"
     ],
-    "matchPercentage": 82,
-    "reason": "Titlul de inginer autovehicule rutiere corespunde direct formarii si competentelor de proiectare auto."
+    "matchPercentage": 85,
+    "reason": "Titlul și domeniul vizează direct ingineria autovehiculelor rutiere, potrivit pentru absolvent sau student la anii mari."
   },
   {
     "url": "https://www.jobradar24.ro/anunt/mecanic-cu-experienta-sau-fara-9k646n",
@@ -82,11 +65,11 @@
     "date": "2026-10-17T12:18:50.213Z",
     "status": "scraped",
     "tags": [
-      "service auto",
-      "diagnostica"
+      "Diagnosticare auto",
+      "Service auto"
     ],
-    "matchPercentage": 72,
-    "reason": "Post de mecanic pentru semiremorci, cu sarcini directe de service si intretinere auto, iar nivelul entry-level este potrivit."
+    "matchPercentage": 80,
+    "reason": "Post de mecanic in service de semiremorci, cu experienta sau fara, foloseste direct competente de diagnosticare si service auto."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3166487",
@@ -96,14 +79,14 @@
       "România"
     ],
     "salary": null,
-    "date": "2026-11-09T15:28:00.922Z",
+    "date": "2026-11-10T14:28:42.872Z",
     "status": "scraped",
     "tags": [
-      "proiectare mecanica",
+      "organe de masini",
       "CAD/CAE"
     ],
-    "matchPercentage": 70,
-    "reason": "Inginer mecanic entry-level, folosește proiectare și calcul mecanic, deși în domeniul aerospațial."
+    "matchPercentage": 80,
+    "reason": "Post de inginer mecanic cu experienta sub 3 ani la un producator aeronautic, foloseste direct proiectarea organelor de masini, rezistenta materialelor si CAD/CAE."
   },
   {
     "url": "https://jobs.zollner.ro/jobposting/b6b83168c8d191aadedc69f020f5f0c82e6df9ee0",
@@ -118,28 +101,10 @@
     "status": "scraped",
     "tags": [
       "electronica aplicata",
-      "testare"
+      "programare"
     ],
-    "matchPercentage": 66,
-    "reason": "Inginer de testare electronica/mecatronica, potrivire partiala cu electronica aplicata si testarea."
-  },
-  {
-    "url": "https://fjobs.ro/job/inginer-proiectare-mecanica-2/",
-    "title": "Inginer Proiectare Mecanică",
-    "company": "PROFESIONAL LEASING S.R.L.",
-    "location": [
-      "Bacau",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:18:15.867Z",
-    "status": "scraped",
-    "tags": [
-      "Proiectare mecanica",
-      "CAD/CAE"
-    ],
-    "matchPercentage": 66,
-    "reason": "Inginer proiectare mecanica foloseste CAD si desen tehnic, dar produsele sunt electrice, nu auto."
+    "matchPercentage": 75,
+    "reason": "Inginer sisteme de testare la un producător de electronică cu aplicații auto (ex. încărcare inductivă pentru maini electrice) — folosește direct programarea, electronica aplicată și identificarea defectelor, nivel potrivit pentru absolvent/junior."
   },
   {
     "url": "https://eurotech-iasi.ro/tehnician-service-motoare-termice-2-si-4-timpi/",
@@ -153,29 +118,46 @@
     "date": "2026-10-17T12:03:37.792Z",
     "status": "scraped",
     "tags": [
-      "diagnosticare auto",
-      "motoare termice"
+      "motoare termice",
+      "diagnosticare auto"
     ],
-    "matchPercentage": 65,
-    "reason": "Post de tehnician service motoare termice care foloseste direct competentele de diagnosticare auto si motoare cu ardere interna, la nivel de entry/mid."
+    "matchPercentage": 72,
+    "reason": "Service și diagnosticare pentru motoare termice în 2 și 4 timpi, folosind direct competențele de motoare cu ardere internă și diagnosticare auto."
   },
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3383112",
-    "title": "MECANIC AUTO",
-    "company": "KRONSTEF SRL",
+    "url": "https://fjobs.ro/job/inginer-proiectare-mecanica-2/",
+    "title": "Inginer Proiectare Mecanică",
+    "company": "PROFESIONAL LEASING S.R.L.",
     "location": [
-      "Sibiu",
+      "Bacau",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-17T12:22:35.322Z",
+    "date": "2026-10-17T12:18:15.867Z",
     "status": "scraped",
     "tags": [
-      "diagnostica auto",
-      "service auto"
+      "proiectare mecanică",
+      "CAD/CAE"
     ],
-    "matchPercentage": 65,
-    "reason": "Mecanic auto entry-level care foloseste direct competentele de diagnosticare si service auto."
+    "matchPercentage": 70,
+    "reason": "Proiectare mecanică cu AutoCAD pentru echipamente metalice, potrivire parțială pe competențele de proiectare mecanică."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000160808355-electronics-hardware-design-engineer",
+    "title": "Electronics Hardware Design Engineer",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-11-10T14:39:30.855Z",
+    "status": "scraped",
+    "tags": [
+      "electronică aplicată",
+      "sisteme auto"
+    ],
+    "matchPercentage": 68,
+    "reason": "Proiectare hardware electronic pentru powertrain auto, relevant pentru electronică aplicată și sisteme auto, fără cerință de senioritate."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3341892",
@@ -190,10 +172,45 @@
     "status": "scraped",
     "tags": [
       "Tehnologia materialelor",
-      "Rezistența materialelor"
+      "Rezistenta materialelor"
     ],
-    "matchPercentage": 65,
-    "reason": "Determinări fizico-mecanice pe materiale, cu educație superioară și sub 3 ani experiență, se potrivesc parțial competențelor de materiale și rezistență."
+    "matchPercentage": 64,
+    "reason": "Laborant determinari fizico-mecanice pe materiale, potrivire partiala cu tehnologia materialelor si rezistenta materialelor, nivel entry cu sub 3 ani experienta."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155250460-mecanic",
+    "title": "Mecanic",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-11-10T14:39:30.855Z",
+    "status": "scraped",
+    "tags": [
+      "masini-unelte",
+      "control dimensional"
+    ],
+    "matchPercentage": 62,
+    "reason": "Mecanic de întreținere și reparații mașini de fabricație folosește competențe de prelucrare mecanică și control dimensional, potrivire parțială."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3383112",
+    "title": "MECANIC AUTO",
+    "company": "KRONSTEF SRL",
+    "location": [
+      "Sibiu",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:22:35.322Z",
+    "status": "scraped",
+    "tags": [
+      "diagnostica auto",
+      "autoservice"
+    ],
+    "matchPercentage": 60,
+    "reason": "Mecanic auto într-un service, nivel de intrare (sub 3 ani experiență) — potrivire parțială: folosește cunoștințele de diagnosticare și service auto, deși este un rol vocațional mai degrabă decât de inginerie."
   },
   {
     "url": "https://fjobs.ro/job/mecanic-auto-vehicule-electrice-si-hibride-olanda-700-750-eur-net-saptamana/",
@@ -207,9 +224,9 @@
     "status": "scraped",
     "tags": [
       "diagnostica auto",
-      "service auto"
+      "autoservice"
     ],
     "matchPercentage": 60,
-    "reason": "Mecanic auto care foloseste competente de diagnosticare/service, potrivire partiala si nivel de intrare."
+    "reason": "Post de mecanic auto (muncă în Olanda prin agenție) — se încadrează parțial în domeniul service auto, dar descrierea se concentrează pe condițiile de angajare, nu pe sarcini tehnice."
   }
 ]
