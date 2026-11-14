@@ -1,1 +1,89 @@
-[]
+[
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161316379-electronics-hardware-design-engineer",
+    "title": "Electronics Hardware Design Engineer",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-11-13T14:22:01.036Z",
+    "status": "scraped",
+    "tags": [
+      "electronica aplicata",
+      "sisteme control auto"
+    ],
+    "matchPercentage": 86,
+    "reason": "Proiectare hardware electronica pentru grupul motopropulsor auto se potriveste direct cu electronica aplicata si sistemele de control auto."
+  },
+  {
+    "url": "https://www.jobrapid.ro/locuri-de-munca/mecanic-auto-in-alba-iulia-1731906.html",
+    "title": "Mecanic Auto",
+    "company": "RAPEL SRL",
+    "location": [
+      "Alba Iulia",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-13T13:54:11.983Z",
+    "status": "scraped",
+    "tags": [
+      "diagnosticare auto",
+      "service auto"
+    ],
+    "matchPercentage": 85,
+    "reason": "Sarcinile de diagnosticare și reparație auto folosesc direct competențele de service și diagnosticare auto."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000160562749-working-student-laboratory-support-electronics-testing",
+    "title": "Working Student Laboratory Support (Electronics Testing)",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-11-13T14:22:01.036Z",
+    "status": "scraped",
+    "tags": [
+      "electronica aplicata",
+      "diagnosticare auto"
+    ],
+    "matchPercentage": 78,
+    "reason": "Analiza electronica si diagnosticare de componente electronice, se potriveste cu electronica aplicata si diagnosticarea auto."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161438539-working-student-embedded-adas-software",
+    "title": "Working Student Embedded ADAS Software",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-13T14:22:01.036Z",
+    "status": "scraped",
+    "tags": [
+      "microprocesoare",
+      "mecatronica"
+    ],
+    "matchPercentage": 72,
+    "reason": "Dezvoltare software embedded pentru ADAS, potrivit mecatronicii si sistemelor cu microprocesoare, la nivel de student."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3441049",
+    "title": "LABORANT DETERMINARI FIZICO-MECANICE",
+    "company": "MICHELIN ROMANIA S.A.",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-11-13T13:37:50.450Z",
+    "status": "scraped",
+    "tags": [
+      "Tehnologia materialelor",
+      "Testare"
+    ],
+    "matchPercentage": 62,
+    "reason": "Determinari fizico-mecanice de materiale, relevant partial pentru testare si tehnologia materialelor, la nivel entry-level."
+  }
+]
