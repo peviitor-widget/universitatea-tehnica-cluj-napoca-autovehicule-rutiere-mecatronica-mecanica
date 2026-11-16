@@ -1,20 +1,20 @@
 [
   {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161316379-electronics-hardware-design-engineer",
-    "title": "Electronics Hardware Design Engineer",
-    "company": "ROBERT BOSCH SRL",
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3166487",
+    "title": "INGINER MECANIC",
+    "company": "AEROSTAR SA",
     "location": [
       "România"
     ],
     "salary": null,
-    "date": "2026-11-14T13:17:33.600Z",
+    "date": "2026-11-15T13:35:49.604Z",
     "status": "scraped",
     "tags": [
-      "electronica aplicata",
-      "propulsie"
+      "inginerie mecanica",
+      "CAD"
     ],
-    "matchPercentage": 85,
-    "reason": "Proiectare hardware electronic pentru propulsie auto, domeniu direct și nivel nesenior."
+    "matchPercentage": 78,
+    "reason": "Inginer mecanic cu studii superioare, foloseste direct competente de organe de masini, rezistenta materialelor si CAD."
   },
   {
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161438539-working-student-embedded-adas-software",
@@ -25,49 +25,14 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-14T13:17:33.600Z",
+    "date": "2026-11-15T13:45:27.217Z",
     "status": "scraped",
     "tags": [
-      "Microprocesoare",
-      "Programare"
+      "Programare",
+      "Microprocesoare"
     ],
-    "matchPercentage": 72,
-    "reason": "Working student pe software embedded ADAS, relevant pentru microprocesoare și programare în mecatronica auto."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3166487",
-    "title": "INGINER MECANIC",
-    "company": "AEROSTAR SA",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-11-14T13:06:13.450Z",
-    "status": "scraped",
-    "tags": [
-      "analiza structurala",
-      "CAD/CAE"
-    ],
-    "matchPercentage": 70,
-    "reason": "Inginerie mecanica cu atributii de proiectare/analiza, potrivire partiala cu profilul mecanic si nivel entry-level."
-  },
-  {
-    "url": "https://www.jobrapid.ro/locuri-de-munca/mecanic-auto-in-alba-iulia-1731906.html",
-    "title": "Mecanic Auto",
-    "company": "RAPEL SRL",
-    "location": [
-      "Alba Iulia",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-14T12:56:52.386Z",
-    "status": "scraped",
-    "tags": [
-      "diagnosticare auto",
-      "service auto"
-    ],
-    "matchPercentage": 68,
-    "reason": "Mecanic auto cu diagnoză mecanică și reparații, folosește direct competențele de diagnosticare și service auto la nivel entry."
+    "matchPercentage": 75,
+    "reason": "Dezvoltare software embedded pentru ADAS auto, aliniată competențelor de programare și microprocesoare."
   },
   {
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161437030-working-student-deep-learning-data-science",
@@ -78,84 +43,48 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-14T13:17:33.600Z",
+    "date": "2026-11-15T13:45:27.217Z",
     "status": "scraped",
     "tags": [
       "Programare",
-      "Modelare matematică"
+      "Metode numerice"
     ],
-    "matchPercentage": 65,
-    "reason": "Student la soluții AI pentru ADAS în automotive, potrivire parțială cu programarea și modelarea matematică."
+    "matchPercentage": 70,
+    "reason": "Dezvoltare AI pentru ADAS auto, potrivită nivelului de working student și competențelor de programare și modelare numerică."
   },
   {
-    "url": "https://www.jobrapid.ro/locuri-de-munca/mecanic-auto-in-magurele-1733003.html",
-    "title": "Mecanic Auto",
-    "company": "VERTATEL INTERNATIONAL S.R.L.",
-    "location": [
-      "Măgurele",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-13T12:57:30Z",
-    "status": "scraped",
-    "tags": [
-      "service auto",
-      "întreținere auto"
-    ],
-    "matchPercentage": 64,
-    "reason": "Mecanic auto fără experiență cerută, sarcinile de întreținere și reparații se potrivesc parțial competențelor de service auto."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3447127",
-    "title": "MECANIC AUTO",
-    "company": "VERTATEL INTERNATIONAL S.R.L.",
-    "location": [
-      "MAGURELE",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-15T09:24:25Z",
-    "status": "scraped",
-    "tags": [
-      "Diagnostica auto",
-      "Tehnici diagnosticare"
-    ],
-    "matchPercentage": 62,
-    "reason": "Post entry-level de mecanic auto, în domeniul service-ului auto, potrivit parțial pentru un absolvent."
-  },
-  {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155250460-mecanic",
-    "title": "Mecanic",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161316379-electronics-hardware-design-engineer",
+    "title": "Electronics Hardware Design Engineer",
     "company": "ROBERT BOSCH SRL",
     "location": [
       "România"
     ],
     "salary": null,
-    "date": "2026-11-14T13:17:33.600Z",
+    "date": "2026-11-15T13:45:27.217Z",
     "status": "scraped",
     "tags": [
-      "masini-unelte",
-      "control dimensional"
+      "electronică auto",
+      "propulsie"
     ],
-    "matchPercentage": 62,
-    "reason": "Mentenanta si repararea masinilor de productie foloseste competente mecanice practice si control dimensional, dar nu proiectare auto."
+    "matchPercentage": 68,
+    "reason": "Proiectare hardware electronic pentru grupul motopropulsor auto, parțial relevantă pentru competențele de electronică aplicată și propulsie, fără cerință de senioritate."
   },
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3441049",
-    "title": "LABORANT DETERMINARI FIZICO-MECANICE",
-    "company": "MICHELIN ROMANIA S.A.",
+    "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/details/System-Integration---Test-Engineer--IVVQ----The-Last-Line-Before-Software-Meets-Reality_R0333982",
+    "title": "System Integration &amp; Test Engineer (IVVQ) | The Last Line Before Software Meets Reality",
+    "company": "THALES DIS ROMANIA S.R.L.",
     "location": [
       "România"
     ],
     "salary": null,
-    "date": "2026-11-14T12:42:34.594Z",
+    "date": "2026-10-16T13:01:32Z",
     "status": "scraped",
     "tags": [
-      "Tehnologia materialelor",
-      "control dimensional"
+      "Teoria sistemelor",
+      "Programare"
     ],
     "matchPercentage": 62,
-    "reason": "Determinari fizico-mecanice de laborator la Michelin, potrivire partiala pe testarea materialelor si control dimensional."
+    "reason": "Inginer integrare și testare (V&V) de sisteme complexe, folosește competențe de teoria sistemelor, programare și testare la nivel entry/mid."
   },
   {
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000160562749-working-student-laboratory-support-electronics-testing",
@@ -165,13 +94,13 @@
       "România"
     ],
     "salary": null,
-    "date": "2026-11-14T13:17:33.600Z",
+    "date": "2026-11-15T13:45:27.217Z",
     "status": "scraped",
     "tags": [
-      "Electronică aplicată",
+      "Electronica aplicata",
       "Diagnosticare auto"
     ],
     "matchPercentage": 62,
-    "reason": "Analize electronice și diagnosticare în laborator, potrivire parțială cu electronica aplicată și diagnosticarea auto."
+    "reason": "Analize și diagnosticare electronică în laborator, potrivire parțială cu electronica aplicată și diagnosticarea auto."
   }
 ]
