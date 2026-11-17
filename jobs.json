@@ -1,106 +1,343 @@
 [
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3166487",
-    "title": "INGINER MECANIC",
-    "company": "AEROSTAR SA",
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3235057",
+    "title": "INGINER AUTOVEHICULE RUTIERE",
+    "company": "INFOPRO DIGITAL AUTOMOTIVE SOCIETATE CU RASPUNDERE LIMITATĂ",
     "location": [
-      "România"
+      "BUCURESTI SECTORUL 5",
+      "Romania"
     ],
     "salary": null,
-    "date": "2026-11-15T13:35:49.604Z",
-    "status": "scraped",
+    "date": "2026-11-16T13:11:14Z",
+    "status": "tested",
     "tags": [
-      "inginerie mecanica",
-      "CAD"
+      "Proiectare autovehicule",
+      "Dinamica autovehiculelor"
+    ],
+    "matchPercentage": 95,
+    "reason": "Inginer autovehicule rutiere cu sub 3 ani experienta, domeniu si nivel potrivite perfect."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3413685",
+    "title": "INGINER AUTOVEHICULE RUTIERE",
+    "company": "MOLDOCOR SA",
+    "location": [
+      "PIATRA-NEAMT",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-16T13:05:46Z",
+    "status": "verified",
+    "tags": [
+      "Proiectare autovehicule",
+      "Organe de masini"
+    ],
+    "matchPercentage": 95,
+    "reason": "Inginer autovehicule rutiere fara experienta, ideal pentru absolvent."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3396608",
+    "title": "INGINER AUTOVEHICULE RUTIERE",
+    "company": "H ESSERS SRL",
+    "location": [
+      "MUNICIPIUL ORADEA",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-16T13:05:46Z",
+    "status": "verified",
+    "tags": [
+      "Proiectare autovehicule",
+      "Dinamica autovehiculelor"
+    ],
+    "matchPercentage": 95,
+    "reason": "Inginer autovehicule rutiere cu sub 3 ani experienta, compatibil cu profilul."
+  },
+  {
+    "url": "https://www.irum.ro/posturi-vacante/inginer-proiectant-mecanic-angrenaje-si-transmisii-mecanice/",
+    "title": "INGINER PROIECTANT MECANIC - ANGRENAJE SI TRANSMISII MECANICE",
+    "company": "IRUM SA",
+    "location": [
+      "Reghin",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T11:18:37Z",
+    "status": "tested",
+    "tags": [
+      "Transmisii",
+      "Mecanisme"
+    ],
+    "matchPercentage": 92,
+    "reason": "Inginerul proiectant de angrenaje și transmisii face dimensionare, calcul de rezistență, modele 3D și desene de execuție."
+  },
+  {
+    "url": "https://jobs.schaeffler.com/job/Brasov-Inginer-proiectare-507075/1452016733/",
+    "title": "Inginer proiectare",
+    "company": "SCHAEFFLER ROMANIA SRL",
+    "location": [
+      "Brașov",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T10:57:31Z",
+    "status": "tested",
+    "tags": [
+      "Organe de masini",
+      "Desen tehnic"
+    ],
+    "matchPercentage": 88,
+    "reason": "Inginer proiectare la Schaeffler, foloseste organe de masini, CAD si desen tehnic in domeniu auto."
+  },
+  {
+    "url": "https://colorcontrol.ro/vacancies",
+    "title": "Inginer Mecanic Proiectant",
+    "company": "COLOR CONTROL SERVICES SRL",
+    "location": [
+      "Apahida",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T12:32:49Z",
+    "status": "tested",
+    "tags": [
+      "organe masini",
+      "CAD/CAE"
+    ],
+    "matchPercentage": 85,
+    "reason": "Proiectarea mecanica intr-un atelier CNC care deserveste OEM-uri foloseste direct organele de masini si CAD/CAM."
+  },
+  {
+    "url": "https://8ore.ro/locuri-de-munca/programator-cad-cam",
+    "title": "Programator CAD/CAM",
+    "company": "DYNAMIC DESIGN EUROPE RO S.R.L.",
+    "location": [
+      "Belciugatele",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T08:26:38Z",
+    "status": "tested",
+    "tags": [
+      "CAD/CAM",
+      "Prelucrare mecanica"
+    ],
+    "matchPercentage": 85,
+    "reason": "Programare CAD/CAM foloseste direct competentele de proiectare asistata si prelucrare mecanica."
+  },
+  {
+    "url": "https://veoneerro.teamtailor.com/jobs/8742281-system-software-test-engineer-for-airbag-ecu",
+    "title": "System/Software Test Engineer for Airbag ECU",
+    "company": "VEONEER ROMANIA SAFETY SYSTEMS S.R.L.",
+    "location": [
+      "Iași",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T11:41:48Z",
+    "status": "tested",
+    "tags": [
+      "siguranta pasiva",
+      "programare"
+    ],
+    "matchPercentage": 82,
+    "reason": "Testarea ECU-urilor de airbag si a senzorilor de accident foloseste direct ingineria sigurantei pasive, programarea si electronica aplicata, iar cerinta de 3 ani se incadreaza la mid."
+  },
+  {
+    "url": "https://jobs.rinf.tech/229762",
+    "title": "Automotive Hardware Test Engineer",
+    "company": "RINF OUTSOURCING SOLUTIONS SRL",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T10:46:54Z",
+    "status": "tested",
+    "tags": [
+      "testare auto",
+      "electronica"
     ],
     "matchPercentage": 78,
-    "reason": "Inginer mecanic cu studii superioare, foloseste direct competente de organe de masini, rezistenta materialelor si CAD."
+    "reason": "Titlul de inginer testare hardware auto indica direct testarea componentelor electronice auto, desi anuntul nu detaliaza sarcinile sau nivelul."
   },
   {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161438539-working-student-embedded-adas-software",
-    "title": "Working Student Embedded ADAS Software",
-    "company": "ROBERT BOSCH SRL",
+    "url": "https://www.bestjobs.eu/loc-de-munca/tehnician-tehnolog-prelucrari-mecanice-aschiere-1",
+    "title": "Tehnician/Tehnolog prelucrari mecanice aschiere",
+    "company": "FEROCET SRL",
     "location": [
-      "Cluj-Napoca",
+      "Pitești",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-15T13:45:27.217Z",
-    "status": "scraped",
+    "date": "2026-11-17T10:13:08Z",
+    "status": "tested",
     "tags": [
-      "Programare",
-      "Microprocesoare"
+      "Prelucrare mecanica",
+      "Masini-unelte"
     ],
     "matchPercentage": 75,
-    "reason": "Dezvoltare software embedded pentru ADAS auto, aliniată competențelor de programare și microprocesoare."
+    "reason": "Tehnicianul/tehnologul de prelucrări mecanice prin așchiere folosește direct prelucrarea mecanică și mașinile-unelte, fără cerințe senior."
   },
   {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161437030-working-student-deep-learning-data-science",
-    "title": "Working student Deep Learning &amp; Data Science",
-    "company": "ROBERT BOSCH SRL",
+    "url": "https://www.jobradar24.ro/anunt/inginer-proiectant-electric-45w0wm",
+    "title": "Inginer proiectant electric",
+    "company": "DALA DSC HR S.R.L.",
     "location": [
-      "Cluj-Napoca",
+      "Brașov",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-15T13:45:27.217Z",
-    "status": "scraped",
+    "date": "2026-11-17T11:56:00Z",
+    "status": "tested",
     "tags": [
-      "Programare",
-      "Metode numerice"
+      "electrotehnica",
+      "electronica aplicata"
     ],
-    "matchPercentage": 70,
-    "reason": "Dezvoltare AI pentru ADAS auto, potrivită nivelului de working student și competențelor de programare și modelare numerică."
+    "matchPercentage": 65,
+    "reason": "Proiectarea electrica valorifica partial electrotehnica si electronica aplicata, dar nu e explicit auto."
   },
   {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161316379-electronics-hardware-design-engineer",
-    "title": "Electronics Hardware Design Engineer",
-    "company": "ROBERT BOSCH SRL",
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3202639",
+    "title": "TEHNICIAN PRESTATII VEHICULE",
+    "company": "MOLDOSERVICE SRL",
     "location": [
-      "România"
+      "BICAZ",
+      "Romania"
     ],
     "salary": null,
-    "date": "2026-11-15T13:45:27.217Z",
-    "status": "scraped",
+    "date": "2026-11-16T13:11:14Z",
+    "status": "verified",
     "tags": [
-      "electronică auto",
-      "propulsie"
+      "diagnosticare",
+      "service"
     ],
-    "matchPercentage": 68,
-    "reason": "Proiectare hardware electronic pentru grupul motopropulsor auto, parțial relevantă pentru competențele de electronică aplicată și propulsie, fără cerință de senioritate."
+    "matchPercentage": 65,
+    "reason": "Tehnicianul de prestatii vehicule lucreaza in service auto, iar cerinta de sub 3 ani experienta se incadreaza la nivel junior, desi fisa postului este sumara."
   },
   {
-    "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/details/System-Integration---Test-Engineer--IVVQ----The-Last-Line-Before-Software-Meets-Reality_R0333982",
-    "title": "System Integration &amp; Test Engineer (IVVQ) | The Last Line Before Software Meets Reality",
-    "company": "THALES DIS ROMANIA S.R.L.",
+    "url": "https://www.publi24.ro/anunturi/locuri-de-munca/constructii-arhitectura-design/electricieni/anunt/tehnician-service-scule-pneumatice-si-hidraulice/gh661d85de65731014e46498ef17d3h4.html",
+    "title": "Tehnician service scule pneumatice si hidraulice",
+    "company": "PUBLI24 DIGITAL S.R.L.",
     "location": [
-      "România"
+      "Popesti-Leordeni",
+      "Romania"
     ],
     "salary": null,
-    "date": "2026-10-16T13:01:32Z",
-    "status": "scraped",
+    "date": "2026-11-17T10:02:07Z",
+    "status": "tested",
     "tags": [
-      "Teoria sistemelor",
-      "Programare"
+      "Hidraulica",
+      "Pneumatica"
     ],
-    "matchPercentage": 62,
-    "reason": "Inginer integrare și testare (V&V) de sisteme complexe, folosește competențe de teoria sistemelor, programare și testare la nivel entry/mid."
+    "matchPercentage": 65,
+    "reason": "Tehnicianul de service pentru scule hidraulice și pneumatice, cu 1-3 ani experiență, folosește direct hidraulica și pneumatica."
   },
   {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000160562749-working-student-laboratory-support-electronics-testing",
-    "title": "Working Student Laboratory Support (Electronics Testing)",
-    "company": "ROBERT BOSCH SRL",
+    "url": "https://jobs.rinf.tech/233526",
+    "title": "HW Design Engineer",
+    "company": "RINF OUTSOURCING SOLUTIONS SRL",
     "location": [
-      "România"
+      "Timișoara",
+      "Romania"
     ],
     "salary": null,
-    "date": "2026-11-15T13:45:27.217Z",
-    "status": "scraped",
+    "date": "2026-11-17T11:45:39Z",
+    "status": "tested",
     "tags": [
       "Electronica aplicata",
-      "Diagnosticare auto"
+      "Microprocesoare"
+    ],
+    "matchPercentage": 64,
+    "reason": "Proiectare hardware electronic, partial relevanta pentru electronica aplicata si microprocesoare in mecatronica."
+  },
+  {
+    "url": "https://www.teamland.ro/apply.php?id=965",
+    "title": "Laborant determinari fizico-mecanice",
+    "company": "TEAMLAND SRL",
+    "location": [
+      "Ploiesti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T11:34:09Z",
+    "status": "tested",
+    "tags": [
+      "Rezistenta materialelor",
+      "Testare"
     ],
     "matchPercentage": 62,
-    "reason": "Analize și diagnosticare electronică în laborator, potrivire parțială cu electronica aplicată și diagnosticarea auto."
+    "reason": "Laborantul în determinări fizico-mecanice aplică rezistența materialelor la nivel entry-level."
+  },
+  {
+    "url": "https://www.teamland.ro/apply.php?id=1246",
+    "title": "Laborant determinari fizico-mecanice",
+    "company": "TEAMLAND SRL",
+    "location": [
+      "Ploiesti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T10:28:12Z",
+    "status": "tested",
+    "tags": [
+      "Rezistenta materialelor",
+      "Testare"
+    ],
+    "matchPercentage": 62,
+    "reason": "Laborantul în determinări fizico-mecanice aplică rezistența materialelor la nivel entry-level."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3441049",
+    "title": "LABORANT DETERMINARI FIZICO-MECANICE",
+    "company": "MICHELIN ROMANIA S.A.",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-11-16T14:17:14.165Z",
+    "status": "scraped",
+    "tags": [
+      "Rezistenta materialelor",
+      "Testare"
+    ],
+    "matchPercentage": 62,
+    "reason": "Laborantul în determinări fizico-mecanice la Michelin, cu sub 3 ani experiență, aplică rezistența materialelor."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3341892",
+    "title": "LABORANT DETERMINARI FIZICO-MECANICE",
+    "company": "COMPANIA NATIONALA ROMARM S.A. FILIALA SOCIETATEA METROM S.A.",
+    "location": [
+      "BRASOV",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-16T13:11:14Z",
+    "status": "tested",
+    "tags": [
+      "Rezistenta materialelor",
+      "Testare"
+    ],
+    "matchPercentage": 62,
+    "reason": "Laborantul în determinări fizico-mecanice, cu studii superioare și sub 3 ani experiență, folosește rezistența materialelor."
+  },
+  {
+    "url": "https://www.delonghigroup.com/en/test-engineer",
+    "title": "TEST ENGINEER",
+    "company": "DELONGHI SOLAR S.R.L.",
+    "location": [
+      "Satu Mare",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T10:52:03Z",
+    "status": "tested",
+    "tags": [
+      "diagnosticare",
+      "productie"
+    ],
+    "matchPercentage": 60,
+    "reason": "Inginer de testare in productie cu analiza defectelor si verificarea echipamentelor, relevanta partiala prin diagnosticare si fabricatie, fara cerinta de senioriat."
   }
 ]
