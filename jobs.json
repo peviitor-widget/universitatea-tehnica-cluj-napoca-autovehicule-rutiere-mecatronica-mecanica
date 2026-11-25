@@ -1,21 +1,21 @@
 [
   {
-    "url": "https://www.teamland.ro/apply.php?id=714",
-    "title": "Inginer Proiectant Cablaje Auto",
-    "company": "TEAMLAND SRL",
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3235057",
+    "title": "INGINER AUTOVEHICULE RUTIERE",
+    "company": "INFOPRO DIGITAL AUTOMOTIVE SOCIETATE CU RASPUNDERE LIMITATĂ",
     "location": [
-      "Pitești",
+      "BUCURESTI SECTORUL 5",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T15:03:47Z",
+    "date": "2026-11-16T13:11:14Z",
     "status": "tested",
     "tags": [
-      "electronica aplicata",
-      "desen tehnic"
+      "Proiectare autovehicule",
+      "Calcul autovehicule"
     ],
-    "matchPercentage": 92,
-    "reason": "Proiectant cablaje auto la Pitești, folosește direct electronica aplicată, desenul tehnic și proiectarea 3D, fără cerințe de senioritate."
+    "matchPercentage": 95,
+    "reason": "Poziție de inginer autovehicule rutiere cu studii superioare și sub 3 ani experiență, aliniată direct cu proiectarea și calculul autovehiculelor."
   },
   {
     "url": "https://www.irum.ro/posturi-vacante/inginer-proiectant-mecanic-angrenaje-si-transmisii-mecanice/",
@@ -29,11 +29,11 @@
     "date": "2026-11-17T11:18:37Z",
     "status": "tested",
     "tags": [
-      "Organe de masini",
-      "Transmisii"
+      "Transmisiuni",
+      "Rezistenta"
     ],
-    "matchPercentage": 90,
-    "reason": "Proiectant de angrenaje și transmisii la IRUM folosește direct organe de mașini, dimensionare și modelare 3D."
+    "matchPercentage": 95,
+    "reason": "Proiectarea angrenajelor și transmisiilor cu calcule de rezistență, modele 3D și toleranțe corespunde exact competențelor de organe de mașini și transmisiuni."
   },
   {
     "url": "https://8ore.ro/locuri-de-munca/tehnician-programare-cad-cam-cnc-belciugatele",
@@ -47,11 +47,47 @@
     "date": "2026-11-17T13:32:36Z",
     "status": "tested",
     "tags": [
-      "CAD",
-      "Desen tehnic"
+      "CAD/CAM",
+      "Prelucrare mecanica"
+    ],
+    "matchPercentage": 90,
+    "reason": "Rol junior de programare CAD/CAM/CNC pentru centre de prelucrare în 5 axe, cu desen tehnic și documentație, direct în competențele de fabricație asistată de calculator."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3413685",
+    "title": "INGINER AUTOVEHICULE RUTIERE",
+    "company": "MOLDOCOR SA",
+    "location": [
+      "PIATRA-NEAMT",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-16T13:05:46Z",
+    "status": "verified",
+    "tags": [
+      "proiectare autovehicule",
+      "calcul autovehicule"
+    ],
+    "matchPercentage": 90,
+    "reason": "Post de inginer autovehicule rutiere acceptă candidați fără experiență și folosește direct competențele de proiectare și calcul auto."
+  },
+  {
+    "url": "https://www.teamland.ro/apply.php?id=714",
+    "title": "Inginer Proiectant Cablaje Auto",
+    "company": "TEAMLAND SRL",
+    "location": [
+      "Pitești",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T15:03:47Z",
+    "status": "tested",
+    "tags": [
+      "Electrotehnica",
+      "CAD/CAE"
     ],
     "matchPercentage": 88,
-    "reason": "Tehnician programare CAD/CAM/CNC la nivel junior foloseste direct proiectarea asistata de calculator, desenul tehnic si prelucrarea mecanica, domenii acceptate."
+    "reason": "Proiectarea cablajelor auto folosește direct electrotehnica, electronica aplicată și desenul tehnic CAD în domeniul automotive."
   },
   {
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161438539-working-student-embedded-adas-software",
@@ -62,17 +98,52 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-23T17:47:51.138Z",
+    "date": "2026-11-24T17:21:07.291Z",
     "status": "scraped",
     "tags": [
       "Programare",
       "Microprocesoare"
     ],
     "matchPercentage": 88,
-    "reason": "Dezvoltarea software embedded pentru ADAS foloseste programarea si sistemele cu microprocesoare."
+    "reason": "Working student embedded ADAS software, dezvoltare de componente AI si computer vision pe hardware dedicat cu microprocesoare si sisteme de control auto."
   },
   {
-    "url": "https://www.jobrapid.ro/locuri-de-munca/mecanic-auto-in-alba-iulia-1731906.html",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162715589-electronics-hardware-design-engineer",
+    "title": "Electronics Hardware Design Engineer",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-11-24T17:21:07.291Z",
+    "status": "scraped",
+    "tags": [
+      "Electronica aplicata",
+      "Microprocesoare"
+    ],
+    "matchPercentage": 85,
+    "reason": "Proiectarea și validarea hardware-ului electronic pentru powertrain auto folosesc direct electronica aplicată și sistemele cu microprocesoare, la nivel entry-level."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3396608",
+    "title": "INGINER AUTOVEHICULE RUTIERE",
+    "company": "H ESSERS SRL",
+    "location": [
+      "MUNICIPIUL ORADEA",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-16T13:05:46Z",
+    "status": "verified",
+    "tags": [
+      "proiectare autovehicule",
+      "organe masini"
+    ],
+    "matchPercentage": 85,
+    "reason": "Poziție de inginer autovehicule rutiere cu mai puțin de 3 ani experiență, adaptată unui absolvent junior."
+  },
+  {
+    "url": "https://www.jobrapid.ro/locuri-de-munca/mecanic-auto-in-alba-iulia-1734246.html",
     "title": "Mecanic Auto",
     "company": "RAPEL SRL",
     "location": [
@@ -80,32 +151,14 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-23T17:21:56.892Z",
+    "date": "2026-11-24T16:56:43.963Z",
     "status": "scraped",
     "tags": [
-      "Diagnosticare auto",
-      "Identificare defectiuni"
+      "diagnosticare auto",
+      "service auto"
     ],
     "matchPercentage": 85,
-    "reason": "Diagnoză mecanică, identificarea defecțiunilor și reparații în service auto, direct din competențele de specialitate."
-  },
-  {
-    "url": "https://multijobs.ro/job/asam-angajeaza-inginer-proiectant-solidworks/3731",
-    "title": "ASAM angajeaza inginer proiectant Solidworks",
-    "company": "ASAM SA",
-    "location": [
-      "Iași",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T10:49:35Z",
-    "status": "tested",
-    "tags": [
-      "CAD/CAE",
-      "Proiectare 3D"
-    ],
-    "matchPercentage": 85,
-    "reason": "Rol de inginer proiectant SolidWorks, folosind direct proiectarea asistata de calculator si proiectarea 3D."
+    "reason": "Mecanic auto cu experiență de până la 3 ani, potrivit pentru început de carieră în service și diagnostică."
   },
   {
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161437030-working-student-deep-learning-data-science",
@@ -116,66 +169,49 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-23T17:47:51.138Z",
+    "date": "2026-11-24T17:21:07.291Z",
     "status": "scraped",
     "tags": [
       "Programare",
-      "Sisteme control"
+      "Modelare matematica"
     ],
     "matchPercentage": 85,
-    "reason": "Dezvoltarea de retele neuronale pentru ADAS foloseste programarea si sistemele de control auto."
+    "reason": "Working student deep learning pentru cazuri ADAS, cu proiectarea si antrenarea retelelor neuronale pentru senzori de vision, radar si lidar."
   },
   {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162715589-electronics-hardware-design-engineer",
-    "title": "Electronics Hardware Design Engineer",
-    "company": "ROBERT BOSCH SRL",
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3166487",
+    "title": "INGINER MECANIC",
+    "company": "AEROSTAR SA",
     "location": [
       "România"
     ],
     "salary": null,
-    "date": "2026-11-23T17:47:51.138Z",
+    "date": "2026-11-24T17:06:14.684Z",
     "status": "scraped",
     "tags": [
-      "Electronica aplicata",
-      "Microprocesoare"
+      "Organe mașini",
+      "CAD/CAE"
     ],
     "matchPercentage": 82,
-    "reason": "Proiectarea si validarea hardware-ului electronic pentru powertrain auto foloseste direct electronica aplicata si sistemele cu microprocesoare, la nivel de engineer fara cerinta de senior."
+    "reason": "Poziția de inginer mecanic la nivel entry-level folosește direct competențele de proiectare a organelor de mașini și analiză structurală, chiar dacă industria e aeronautică."
   },
   {
-    "url": "https://www.auto1-group.com/en/jobs/specialist-inspec-ie-vehicule-germania-cazare-asigurat-f-m-x-50822",
-    "title": "Specialist Inspecție Vehicule - Germania, cazare asigurată (f/m/x)",
-    "company": "AUTO10TDR S.R.L.",
+    "url": "https://8ore.ro/locuri-de-munca/programator-cad-cam",
+    "title": "Programator CAD/CAM",
+    "company": "DYNAMIC DESIGN EUROPE RO S.R.L.",
     "location": [
-      "Bucuresti",
+      "Belciugatele",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T13:18:37Z",
+    "date": "2026-11-17T08:26:38Z",
     "status": "tested",
     "tags": [
-      "Omologare auto",
-      "Diagnosticare auto"
+      "CAD/CAM",
+      "Proiectare 3D"
     ],
-    "matchPercentage": 75,
-    "reason": "Inspecția vehiculelor implică diagnosticare și identificarea defecțiunilor, fără cerință explicită de senior."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3441049",
-    "title": "LABORANT DETERMINARI FIZICO-MECANICE",
-    "company": "MICHELIN ROMANIA S.A.",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-11-23T16:49:51.273Z",
-    "status": "scraped",
-    "tags": [
-      "Rezistenta materialelor",
-      "Analiza structurala"
-    ],
-    "matchPercentage": 75,
-    "reason": "Laborant la Michelin face determinări fizico-mecanice, folosind rezistența materialelor în industria auto."
+    "matchPercentage": 80,
+    "reason": "Programator CAD/CAM în fabricația de matrițe, domeniu direct relevant pentru proiectare și fabricație asistată de calculator, fără cerințe senior."
   },
   {
     "url": "https://www.randstad.ro/locuri-de-munca/mecanic-auto-bucuresti_bucuresti_5520/",
@@ -186,32 +222,14 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-23T17:19:41.434Z",
+    "date": "2026-11-24T16:56:45.425Z",
     "status": "scraped",
     "tags": [
-      "Diagnosticare auto",
-      "Identificare defectiuni"
+      "diagnosticare auto",
+      "service auto"
     ],
-    "matchPercentage": 72,
-    "reason": "Mecanic auto cu experiență în service auto și fără cerințe de nivel senior."
-  },
-  {
-    "url": "https://www.jobradar24.ro/anunt/mecanic-auto-in-vanatori-neamt-vdvgrj",
-    "title": "Mecanic auto in Vanatori-Neamt",
-    "company": "DALA DSC HR S.R.L.",
-    "location": [
-      "Targu Neamt",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T15:36:24Z",
-    "status": "tested",
-    "tags": [
-      "Diagnosticare auto",
-      "Identificare defectiuni"
-    ],
-    "matchPercentage": 72,
-    "reason": "Reparații la autoturisme și camioane în service auto, fără experiență îndelungată cerută."
+    "matchPercentage": 80,
+    "reason": "Post de mecanic auto care folosește direct diagnosticarea și service-ul auto, fără cerințe de nivel senior."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/tehnician-tehnolog-prelucrari-mecanice-aschiere-1",
@@ -225,154 +243,11 @@
     "date": "2026-11-17T10:13:08Z",
     "status": "tested",
     "tags": [
-      "Prelucrare mecanica",
+      "Prelucrare",
       "Masini-unelte"
     ],
-    "matchPercentage": 72,
-    "reason": "Tehnician/tehnolog în prelucrări prin așchiere folosește competențe de prelucrare mecanică și mașini-unelte."
-  },
-  {
-    "url": "https://www.randstad.ro/locuri-de-munca/tehnician-proiectant_bolintin-deal_5503/",
-    "title": "tehnician proiectant",
-    "company": "RANDSTAD ROMANIA SRL",
-    "location": [
-      "Bolintin-Deal",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-23T17:19:41.435Z",
-    "status": "scraped",
-    "tags": [
-      "CAD/CAE",
-      "prelucrare mecanica"
-    ],
-    "matchPercentage": 70,
-    "reason": "Tehnician proiectant în departamentul Producție/Proiectare, compatibil cu CAD/CAE și prelucrarea mecanică la nivel de început de carieră."
-  },
-  {
-    "url": "https://www.jobrapid.ro/locuri-de-munca/mecanic-auto-in-alba-iulia-1734246.html",
-    "title": "Mecanic Auto",
-    "company": "RAPEL SRL",
-    "location": [
-      "Alba Iulia",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-23T17:21:56.892Z",
-    "status": "scraped",
-    "tags": [
-      "Diagnosticare auto",
-      "Identificare defectiuni"
-    ],
-    "matchPercentage": 70,
-    "reason": "Mecanic auto cu experiență de până la 3 ani, în domeniul diagnozei și service-ului auto."
-  },
-  {
-    "url": "https://www.teamland.ro/apply.php?id=965",
-    "title": "Laborant determinari fizico-mecanice",
-    "company": "TEAMLAND SRL",
-    "location": [
-      "Ploiesti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T11:34:09Z",
-    "status": "tested",
-    "tags": [
-      "Rezistenta materialelor",
-      "Analiza structurala"
-    ],
-    "matchPercentage": 70,
-    "reason": "Laborant determinări fizico-mecanice la nivel de început, relevant prin rezistența materialelor."
-  },
-  {
-    "url": "https://www.teamland.ro/apply.php?id=1246",
-    "title": "Laborant determinari fizico-mecanice",
-    "company": "TEAMLAND SRL",
-    "location": [
-      "Ploiesti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T10:28:12Z",
-    "status": "tested",
-    "tags": [
-      "Rezistenta materialelor",
-      "Analiza structurala"
-    ],
-    "matchPercentage": 70,
-    "reason": "Laborant determinări fizico-mecanice la nivel de început, relevant prin rezistența materialelor."
-  },
-  {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162476972-working-student-production-maintenance",
-    "title": "Working Student - Production Maintenance",
-    "company": "ROBERT BOSCH SRL",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-11-23T17:47:51.138Z",
-    "status": "scraped",
-    "tags": [
-      "Pneumatica",
-      "Electrotehnica"
-    ],
-    "matchPercentage": 70,
-    "reason": "Intretinerea productiei include evaluari de etanseitate pneumatica si verificari de securitate electrica."
-  },
-  {
-    "url": "https://www.publi24.ro/anunturi/locuri-de-munca/constructii-arhitectura-design/electricieni/anunt/tehnician-service-scule-pneumatice-si-hidraulice/gh661d85de65731014e46498ef17d3h4.html",
-    "title": "Tehnician service scule pneumatice si hidraulice",
-    "company": "PUBLI24 DIGITAL S.R.L.",
-    "location": [
-      "Popesti-Leordeni",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T10:02:07Z",
-    "status": "tested",
-    "tags": [
-      "Hidraulica",
-      "Pneumatica"
-    ],
-    "matchPercentage": 68,
-    "reason": "Tehnician service cu 1-3 ani experiență pe scule hidraulice și pneumatice, domeniu înrudit și nivel potrivit."
-  },
-  {
-    "url": "https://electrogrup.applytojob.com/apply/jobs/details/B5YbGEBGbY",
-    "title": "Inginer Proiectant Instalatii Secundare",
-    "company": "ELECTROGRUP SA",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-23T17:40:40Z",
-    "status": "scraped",
-    "tags": [
-      "electrotehnica",
-      "automatizari"
-    ],
-    "matchPercentage": 65,
-    "reason": "Proiectarea instalațiilor secundare (relee de protecție, SCADA, automatizări) folosește direct electrotehnica și teoria sistemelor, la nivel de proiectant."
-  },
-  {
-    "url": "https://electrogrup.applytojob.com/apply/jobs/details/cD3jA97IQS",
-    "title": "Inginer Proiectant Instalatii Secundare",
-    "company": "ELECTROGRUP SA",
-    "location": [
-      "Cluj-Napoca",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-23T17:40:40Z",
-    "status": "scraped",
-    "tags": [
-      "electrotehnica",
-      "automatizari"
-    ],
-    "matchPercentage": 65,
-    "reason": "Proiectarea instalațiilor secundare (relee de protecție, SCADA, automatizări) folosește direct electrotehnica și teoria sistemelor, la nivel de proiectant."
+    "matchPercentage": 75,
+    "reason": "Tehnologul prelucrărilor mecanice prin așchiere folosește direct competențele de prelucrare mecanică și mașini-unelte la nivel junior."
   },
   {
     "url": "https://www.publi24.ro/anunturi/locuri-de-munca/constructii-arhitectura-design/ingineri/anunt/tehnician-service-scule-pneumatice-si-hidraulice/gfg21di132h372hdee43f2eege41630g.html",
@@ -389,8 +264,115 @@
       "Hidraulica",
       "Pneumatica"
     ],
+    "matchPercentage": 70,
+    "reason": "Service-ul sculelor pneumatice și hidraulice folosește direct cunoștințele de hidraulică și pneumatică la nivel entry-level."
+  },
+  {
+    "url": "https://www.publi24.ro/anunturi/locuri-de-munca/constructii-arhitectura-design/electricieni/anunt/tehnician-service-scule-pneumatice-si-hidraulice/gh661d85de65731014e46498ef17d3h4.html",
+    "title": "Tehnician service scule pneumatice si hidraulice",
+    "company": "PUBLI24 DIGITAL S.R.L.",
+    "location": [
+      "Popesti-Leordeni",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T10:02:07Z",
+    "status": "tested",
+    "tags": [
+      "Hidraulica",
+      "Pneumatica"
+    ],
+    "matchPercentage": 70,
+    "reason": "Același rol de service hidraulic și pneumatic, cu 1-3 ani experiență, se încadrează la nivel junior."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3441049",
+    "title": "LABORANT DETERMINARI FIZICO-MECANICE",
+    "company": "MICHELIN ROMANIA S.A.",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-11-24T16:42:03.890Z",
+    "status": "scraped",
+    "tags": [
+      "Rezistenta",
+      "Materiale"
+    ],
+    "matchPercentage": 70,
+    "reason": "Laborantul pentru determinări fizico-mecanice la Michelin aplică rezistența materialelor și tehnologia materialelor într-un rol entry-level."
+  },
+  {
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/B5YbGEBGbY",
+    "title": "Inginer Proiectant Instalatii Secundare",
+    "company": "ELECTROGRUP SA",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-24T17:12:01Z",
+    "status": "scraped",
+    "tags": [
+      "Automatizari",
+      "Electrotehnica"
+    ],
     "matchPercentage": 65,
-    "reason": "Service-ul sculelor pneumatice și hidraulice folosește direct cunoștințe de hidraulică și pneumatică la nivel entry."
+    "reason": "Proiectarea sistemelor de protecție și automatizare SCADA folosește direct electrotehnica și teoria sistemelor, la nivel de proiectant."
+  },
+  {
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/cD3jA97IQS",
+    "title": "Inginer Proiectant Instalatii Secundare",
+    "company": "ELECTROGRUP SA",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-24T17:12:01Z",
+    "status": "scraped",
+    "tags": [
+      "Automatizari",
+      "Electrotehnica"
+    ],
+    "matchPercentage": 65,
+    "reason": "Proiectarea sistemelor de protecție și automatizare SCADA folosește direct electrotehnica și teoria sistemelor, la nivel de proiectant."
+  },
+  {
+    "url": "https://www.teamland.ro/apply.php?id=965",
+    "title": "Laborant determinari fizico-mecanice",
+    "company": "TEAMLAND SRL",
+    "location": [
+      "Ploiesti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T11:34:09Z",
+    "status": "tested",
+    "tags": [
+      "Rezistenta",
+      "Materiale"
+    ],
+    "matchPercentage": 65,
+    "reason": "Determinările fizico-mecanice folosesc cunoștințele de rezistență a materialelor, iar rolul este de laborant la început de carieră."
+  },
+  {
+    "url": "https://www.teamland.ro/apply.php?id=1246",
+    "title": "Laborant determinari fizico-mecanice",
+    "company": "TEAMLAND SRL",
+    "location": [
+      "Ploiesti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T10:28:12Z",
+    "status": "tested",
+    "tags": [
+      "Rezistenta",
+      "Materiale"
+    ],
+    "matchPercentage": 65,
+    "reason": "Laborant pentru determinări fizico-mecanice, cu potrivire prin rezistența materialelor la nivel de început."
   },
   {
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162663639-working-student-claims-management",
@@ -400,98 +382,30 @@
       "România"
     ],
     "salary": null,
-    "date": "2026-11-23T17:47:51.138Z",
+    "date": "2026-11-24T17:21:07.291Z",
     "status": "scraped",
     "tags": [
       "Diagnosticare",
       "Incercari"
     ],
     "matchPercentage": 65,
-    "reason": "Analiza reclamatiilor implica diagnosticarea defectelor si selectarea metodelor de incercare si masurare."
+    "reason": "Working student in claims management cu evaluarea defectiunilor si selectarea metodelor de incercare si a dispozitivelor de masurare, potrivit partial cu diagnosticarea si incercarile auto."
   },
   {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162475139-working-student-manufacturing-operations",
-    "title": "Working Student - Manufacturing Operations",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162476972-working-student-production-maintenance",
+    "title": "Working Student - Production Maintenance",
     "company": "ROBERT BOSCH SRL",
     "location": [
       "România"
     ],
     "salary": null,
-    "date": "2026-11-23T17:47:51.138Z",
+    "date": "2026-11-24T17:21:07.291Z",
     "status": "scraped",
     "tags": [
-      "Prelucrare mecanica",
-      "Control dimensional"
+      "Electrotehnica",
+      "Pneumatica"
     ],
-    "matchPercentage": 62,
-    "reason": "Operatiile de fabricatie presupun analiza rebuturilor si masuri corective in domeniul prelucrarii."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3447050",
-    "title": "INGINER ELECTRICIAN",
-    "company": "VERTATEL INTERNATIONAL S.R.L.",
-    "location": [
-      "MAGURELE",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-23T17:43:14Z",
-    "status": "scraped",
-    "tags": [
-      "electrotehnica"
-    ],
-    "matchPercentage": 60,
-    "reason": "Poziție de inginer electrician fără experiență care folosește electrotehnica, dar fără aplicare în domeniul autovehiculelor."
-  },
-  {
-    "url": "https://electrogrup.applytojob.com/apply/jobs/details/EtbUWrw5yM",
-    "title": "Inginer Proiectant Joasa Tensiune &amp; Curenti Slabi",
-    "company": "DIRECT ONE SA",
-    "location": [
-      "Cluj-Napoca",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-23T17:22:06Z",
-    "status": "scraped",
-    "tags": [
-      "electrotehnica"
-    ],
-    "matchPercentage": 60,
-    "reason": "Proiectare de joasă tensiune și curenți slabi în clădiri, folosește electrotehnica, dar nu și competențele specifice auto."
-  },
-  {
-    "url": "https://www.jobradar24.ro/anunt/angajam-inginer-proiectant-in-domeniul-electric-7j4pqq",
-    "title": "Angajam Inginer proiectant in domeniul electric",
-    "company": "DALA DSC HR S.R.L.",
-    "location": [
-      "Brașov",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T15:36:24Z",
-    "status": "tested",
-    "tags": [
-      "electrotehnica"
-    ],
-    "matchPercentage": 60,
-    "reason": "Inginer proiectant electric la început de carieră, folosește electrotehnica, dar nu vizează sisteme de autovehicule."
-  },
-  {
-    "url": "https://multijobs.ro/job/inginer-proiectant-sisteme-fotovoltaice/2565",
-    "title": "Inginer Proiectant Sisteme Fotovoltaice",
-    "company": "GENERAL ELECTRO PROEXIM SRL",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T15:26:16Z",
-    "status": "tested",
-    "tags": [
-      "electrotehnica"
-    ],
-    "matchPercentage": 60,
-    "reason": "Proiectarea sistemelor fotovoltaice utilizează electrotehnica, dar este un domeniu energetic diferit de propulsia auto electrică."
+    "matchPercentage": 65,
+    "reason": "Working student in intretinerea productiei, cu teste de etanseitate, securitate electrica si inspectii tehnice ale echipamentelor, potrivit partial cu electrotehnica si pneumatica."
   }
 ]
